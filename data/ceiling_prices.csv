@@ -1,0 +1,768 @@
+sl_no,medicine,strength,unit,ceiling_price,previous_so,previous_so_date
+1,5-amino salicylic Acid (Mesalazine/Mesalamine),Suppository 500 mg,1 Suppository,17.86,2027(E),06-05-2025
+2,5-amino salicylic Acid (Mesalazine/Mesalamine),Retention Enema (Foam),1 GM,17.11,2027(E),06-05-2025
+3,5-amino salicylic Acid (Mesalazine/Mesalamine),Retention Enema (Liquid),1 ML,2.17,2027(E),06-05-2025
+4,5-aminosalicylic Acid,Tablet 400 mg,1 Tablet,8.11,1489(E),27-03-2025
+5,5-Fluorouracil,Injection 250 mg/5 ml,1 ml,2.09,1489(E),27-03-2025
+6,6-Mercaptopurine,Tablet 50mg,1 Tablet,5.38,1489(E),27-03-2025
+7,Abacavir,Tablet 300 mg,1 Tablet,49.76,1489(E),27-03-2025
+8,Abacavir (A) +Lamivudine(B),Tablet 600mg (A) +300mg (B),1 Tablet,74.06,1489(E),27-03-2025
+9,Acetazolamide,Tablet 250mg,1 Tablet,4.16,1489(E),27-03-2025
+10,Acetazolamide,Capsule 250mg,1 Capsule,5.17,1489(E),27-03-2025
+11,Acetylsalicylic acid,Enteric coated Tablet 75 mg,1 Tablet,0.36,1489(E),27-03-2025
+12,Acetylsalicylic acid,Conventional/Effervescent/Dispersible/ Enteric coated Tablets 150 mg,1 Tablet,0.72,1489(E),27-03-2025
+13,Acetylsalicylic acid,Conventional / Effervescent / Dispersible / Enteric coated Tablets 325 mg,1 Tablet,0.68,1489(E),27-03-2025
+14,Actinomycin D,Powder for Injection 0.5mg,1 Vial,338.98,1489(E),27-03-2025
+15,Acyclovir,Tablet 400mg,1 Tablet,13.99,1489(E),27-03-2025
+16,Acyclovir,Tablet 200mg,1 Tablet,7.79,1489(E),27-03-2025
+17,Acyclovir,Powder for Injection 250 mg,1 Vial,436.64,1489(E),27-03-2025
+18,Acyclovir,Powder for Injection 500 mg,1 Vial,541.14,1489(E),27-03-2025
+19,Acyclovir,Tablet 800mg,1 Tablet,38.57,1489(E),27-03-2025
+20,Acyclovir,Ointment 3%,1 GM,11.95,1489(E),27-03-2025
+21,Acyclovir,Oral liquid 400mg/5mL (p),1 ML,1.39,1489(E),27-03-2025
+22,Adenosine,Injection 3mg/mL,1 ML,95.09,1489(E),27-03-2025
+23,Adrenaline,Injection1mg/mL,1 ML,12.52,1489(E),27-03-2025
+24,Albendazole,Oral liquid 200mg/5mL(p),1 ML,1.83,1489(E),27-03-2025
+25,Albendazole,Tablet 400mg,1 Tablet,7.21,1489(E),27-03-2025
+26,Albendazole,Chewable Tablet 400mg,1 Tablet,8.32,1489(E),27-03-2025
+27,Allopurinol,Tablet 300mg,1 Tablet,5.77,1489(E),27-03-2025
+28,Allopurinol,Tablet 100mg,1 Tablet,1.93,1489(E),27-03-2025
+29,Alprostadil,Injection 0.5mg/mL,1 ML,6253.38,1489(E),27-03-2025
+30,Amikacin,Injection 250mg/mL,1 ML,55.47,1489(E),27-03-2025
+31,Amiodarone,Tablet 200mg,1 Tablet,11.79,1489(E),27-03-2025
+32,Amiodarone,Tablet 100mg,1 Tablet,6.29,1489(E),27-03-2025
+33,Amiodarone,Injection 50mg/mL,1 ML,21.64,1489(E),27-03-2025
+34,Amitriptyline,Tablet 50mg,1 Tablet,6.13,1489(E),27-03-2025
+35,Amitriptyline,Tablet 75mg,1 Tablet,5.58,1489(E),27-03-2025
+36,Amitriptyline,Tablet 25mg,1 Tablet,2.55,1489(E),27-03-2025
+37,Amitriptyline,Tablet 10mg,1 Tablet,2.45,1489(E),27-03-2025
+38,Amlodipine,Tablet 2.5mg,1 Tablet,1.83,1489(E),27-03-2025
+39,Amlodipine,Tablet 5mg,1 Tablet,2.56,1489(E),27-03-2025
+40,Amlodipine,Tablet 10mg,1 Tablet,5.58,1489(E),27-03-2025
+41,Amoxicillin,Capsule 250mg,1 Capsule,2.50,1489(E),27-03-2025
+42,Amoxicillin,Capsule 500mg,1 Capsule,7.54,1489(E),27-03-2025
+43,Amoxicillin,Oral liquid 250 mg/5 mL (p),1 ML,1.60,1489(E),27-03-2025
+44,Amoxicillin,Powder for Injection 250 mg,1 Vial,25.38,1489(E),27-03-2025
+45,Amoxicillin,Powder for Injection 500 mg,1 Vial,55.96,1489(E),27-03-2025
+46,Amoxicillin,Oral liquid 125 mg/5 mL (p),1 ML,1.05,1489(E),27-03-2025
+47,Amoxicillin (A) + Clavulanic acid (B),Powder for Injection 500mg (A) + 100mg (B),1 Vial,103.78,1489(E),27-03-2025
+48,Amoxicillin (A) + Clavulanic acid (B),Dry Syrup 125mg (A) + 31.25 (B)/5mL(p),1 ML,2.10,1489(E),27-03-2025
+49,Amoxicillin (A) + Clavulanic acid (B),Powder for Injection 1 g (A) +200mg (B),1 Vial,145.06,1489(E),27-03-2025
+50,Amoxicillin (A) +Clavulanic acid (B),Tablet 500 mg (A) + 125 mg (B),1 Tablet,18.74,1489(E),27-03-2025
+51,Amoxicillin (A) +Clavulanic acid (B),Oral liquid 200 mg (A) + 28.5mg(B)/5 mL(p),1 ML,2.07,1489(E),27-03-2025
+52,Amphotericin B,Amphotericin B(conventional) - Injection 50mg/vial,1 Vial,232.86,1489(E),27-03-2025
+53,Amphotericin B Lipid,Injection 50mg/ vial,1 Vial,1933.08,1489(E),27-03-2025
+54,Amphotericin B Liposomal,Injection 50mg/ vial,1 Vial,6807.87,1489(E),27-03-2025
+55,Ampicillin,Powder for Injection 500 mg,1 Vial,14.59,1489(E),27-03-2025
+56,Ampicillin,Powder for Injection 1 gm,1 Vial,25.51,1489(E),27-03-2025
+57,Anti-rabies immunoglobulin,Injection 150 IU/ml,1 ML,3182.21,1489(E),27-03-2025
+58,Anti-rabies immunoglobulin,Injection 300 IU/ml,1 ML,112.19,1489(E),27-03-2025
+59,Anti-tetanus immunoglobulin,As licensed (250IU),1 Vial,1274.68,1489(E),27-03-2025
+60,Anti-tetanus immunoglobulin,As licensed (500IU),1 Vial,1920.79,1489(E),27-03-2025
+61,Anti-tetanus immunoglobulin,As licensed (1000IU),1 Vial,2748.64,1489(E),27-03-2025
+62,Arsenic Trioxide,Injection 1mg/ml,1 ml,31.27,1489(E),27-03-2025
+63,Artemether (A) + Lumefantrine(B),Tablet 40 mg (A) + 240 mg (B),1 Tablet,18.47,1489(E),27-03-2025
+64,Artemether (A) +Lumefantrine(B),Tablet 80mg(A)+480mg(B),1 Tablet,26.12,1489(E),27-03-2025
+65,Artemether (A) +Lumefantrine(B),Tablet 20 mg (A) + 120 mg (B),1 Tablet,12.95,1489(E),27-03-2025
+66,Artesunate,Powder for Injection 60 mg,1 Vial,250.61,1489(E),27-03-2025
+67,Artesunate,Powder for Injection 120mg,1 Vial,465.35,1489(E),27-03-2025
+68,Artesunate (A) + Sulphadoxine -Pyrimethamine (B),Combi pack (A+B) 1 Tablet 50mg (A) + 1Tablet (500mg + 25mg) (B),1 Combi Pack,23.09,1489(E),27-03-2025
+69,Ascorbic acid (Vitamin C),Tablet 100mg,1 Tablet,0.24,1489(E),27-03-2025
+70,Ascorbic acid (VitaminC),Tablet 500mg,1 Tablet,1.58,1489(E),27-03-2025
+71,Atazanavir (A) +Ritonavir(B),Tablet 300mg(A) + Tablet 100mg(B),1 Tablet,102.23,1489(E),27-03-2025
+72,Atorvastatin,Tablet 40mg,1 Tablet,19.77,1489(E),27-03-2025
+73,Atorvastatin,Tablet 20mg,1 Tablet,12.86,1489(E),27-03-2025
+74,Atorvastatin,Tablet 80mg,1 Tablet,41.56,1489(E),27-03-2025
+75,Atorvastatin,Tablet 10mg,1 Tablet,5.09,1489(E),27-03-2025
+76,Atracurium,Injection 10 mg/ml,1 ML,17.39,1489(E),27-03-2025
+77,Atropine,Drops 1%,1 ML,4.04,1489(E),27-03-2025
+78,Atropine,Ointment 1%,1 GM,4.82,1489(E),27-03-2025
+79,Atropine,Injection 0.6mg/mL,1 ML,7.03,1489(E),27-03-2025
+80,Azathioprine,Tablet 50mg,1 Tablet,11.53,1489(E),27-03-2025
+81,Azathioprine,Tablet 25mg(p),1 Tablet,7.42,1489(E),27-03-2025
+82,Azithromycin,Powder for Injection 500mg,1 Vial,209.63,1489(E),27-03-2025
+83,Azithromycin,Tablet 500mg,1 Tablet,24.14,1489(E),27-03-2025
+84,Azithromycin,Oral liquid 200 mg/5 mL (p),1 ML,3.49,1489(E),27-03-2025
+85,Azithromycin,Capsule250mg,1 Capsule,10.87,1489(E),27-03-2025
+86,Azithromycin,Tablet 1000mg,1 Tablet,59.17,1489(E),27-03-2025
+87,Azithromycin,Capsule 500mg,1 Capsule,19.49,1489(E),27-03-2025
+88,Azithromycin,Tablet 250mg,1 Tablet,11.95,1489(E),27-03-2025
+89,Baclofen,Tablet 20mg,1 Tablet,16.67,1489(E),27-03-2025
+90,Baclofen,Tablet 10mg,1 Tablet,12.19,1489(E),27-03-2025
+91,Baclofen,Tablet 5mg,1 Tablet,6.52,1489(E),27-03-2025
+92,BCG vaccine,As licensed,Each dose (0.10 ML),8.20,1489(E),27-03-2025
+93,Bendamustine hydrochloride,Injection 100 mg/vial,1 Vial,5065.58,1489(E),27-03-2025
+94,Benzathine benzylpenicillin,Powder for Injection 12 lac units,1 Vial,20.28,1489(E),27-03-2025
+95,Benzathine benzylpenicillin,Powder for Injection 6 lac units,1 Vial,11.97,1489(E),27-03-2025
+96,Benzoyl peroxide,Gel 2.5,1 GM,3.70,1489(E),27-03-2025
+97,Benzoyl peroxide,Gel 5 %,1 GM,8.16,1489(E),27-03-2025
+98,Benzoyl peroxide,Gel 3.5%,1 GM,10.36,1489(E),27-03-2025
+99,Betamethasone,Injection 4mg/mL,1 ML,4.85,1489(E),27-03-2025
+100,Betamethasone valerate,Cream 0.05%,1 GM,0.68,1489(E),27-03-2025
+101,Betamethasone valerate,Lotion 0.05%,1 ML,0.67,2027(E),06-05-2025
+102,Betamethasone valerate,Gel 0.05%,1 GM,0.48,2027(E),06-05-2025
+103,Betamethasone valerate,Cream 0.1%,1 GM,1.07,1489(E),27-03-2025
+104,Bicalutamide,Tablet 50mg,1 Tablet,44.34,1489(E),27-03-2025
+105,Bisacodyl,Tablet 5mg,1 Tablet,1.20,1489(E),27-03-2025
+106,Bisacodyl,Suppository 5mg,1 Suppository,10.22,1489(E),27-03-2025
+107,Bleomycin,Powder for Injection 15units,1 Vial,693.68,1489(E),27-03-2025
+108,Bortezomib,Powder for Injection 2mg,1 Vial,5386.81,1489(E),27-03-2025
+109,Budesonide,Respirator solution for use in nebulizer 0.5mg/mL,1 ML,12.19,1489(E),27-03-2025
+110,Budesonide,Respirator solution for use in nebulizer 1mg/mL,1 ML,13.46,1489(E),27-03-2025
+111,Budesonide,Inhalation (MDI) 100 mcg/dose,1 Metered Dose,1.44,1489(E),27-03-2025
+112,Budesonide,Inhalation (MDI) 200 mcg/dose,1 Metered Dose,2.08,1489(E),27-03-2025
+113,Budesonide,Inhalation (DPI) 200 mcg/dose,1 Dose,3.41,1489(E),27-03-2025
+114,Budesonide,Nasal Spray 100 mcg/dose,1 Dose,0.83,1489(E),27-03-2025
+115,Budesonide (A)+ Formoterol (B),Inhalation (DPI) 400 mcg (A) + 6 mcg (B),1 Dose,7.12,1489(E),27-03-2025
+116,Budesonide (A)+ Formoterol (B),Inhalation (MDI) 100 mcg (A) + 6 mcg (B),1 Metered Dose,2.17,1489(E),27-03-2025
+117,Budesonide (A)+ Formoterol (B),Inhalation (DPI) 100 mcg (A) + 6 mcg (B),1 Dose,4.43,1489(E),27-03-2025
+118,Budesonide (A)+ Formoterol (B),Inhalation (DPI) 200 mcg (A) + 6 mcg (B),1 Dose,5.86,1489(E),27-03-2025
+119,Budesonide (A) + Formoterol (B),Inhalation (MDI) 200mcg (A) + 6mcg (B),1 Metered dose,3.03,1489(E),27-03-2025
+120,Budesonide (A) + Formoterol (B),Inhalation (MDI) 400mcg (A) + 6mcg (B),1 Metered dose,3.45,1489(E),27-03-2025
+121,Bupivacaine,Injection 0.5 % with 7.5 % glucose,1 ML,7.57,1489(E),27-03-2025
+122,Bupivacaine,Injection 0.5 %,1 ML,4.53,1489(E),27-03-2025
+123,Bupivacaine,Injection 0.25%,1 ML,2.90,1489(E),27-03-2025
+124,Buprenorphine,Tablet (Sub-lingual)0.4mg,1 Tablet,9.65,1489(E),27-03-2025
+125,Buprenorphine (A) +Naloxone (B),Tablet (Sub-lingual) 2mg(A)+0.5mg(B),1 Tablet,37.86,1489(E),27-03-2025
+126,Buprenorphine (A) +Naloxone (B),Tablet (Sub-lingual) 0.4mg(A)+0.1mg(B),1 Tablet,12.11,1489(E),27-03-2025
+127,Caffeine,Oral liquid 20 mg/mL,1 ML,251.58,1489(E),27-03-2025
+128,Caffeine,Injection 20mg/mL,1 ML,256.52,1489(E),27-03-2025
+129,Calamine,Lotion (As per IP),1 ML,0.98,1489(E),27-03-2025
+130,Calcium folinate,Tablet 15mg,1 Tablet,48.68,1489(E),27-03-2025
+131,Capecitabine,Tablet 500mg,1 Tablet,115.43,1489(E),27-03-2025
+132,Carbamazepine,Modified Release – Tablet 200mg,1 Tablet,2.46,1489(E),27-03-2025
+133,Carbamazepine,Modified Release – Tablet 400mg,1 Tablet,4.77,1489(E),27-03-2025
+134,Carbamazepine,Tablet 400mg,1 Tablet,3.63,1489(E),27-03-2025
+135,Carbamazepine,Tablet 200mg,1 Tablet,1.61,1489(E),27-03-2025
+136,Carbamazepine,Oral liquid 100mg/5mL(p),1 ML,0.32,1489(E),27-03-2025
+137,Carbamazepine,Tablet 100mg,1 Tablet,1.10,1489(E),27-03-2025
+138,Carbimazole,Tablet 10mg,1 Tablet,4.36,1489(E),27-03-2025
+139,Carbimazole,Tablet 5mg,1 Tablet,2.24,1489(E),27-03-2025
+140,Carbimazole,Tablet 20mg,1 Tablet,14.20,1489(E),27-03-2025
+141,Carboplatin,Injection 10mg/mL,1 ML,60.49,1489(E),27-03-2025
+142,Carboxymethyl cellulose,Drops 0.5%,1 ML,12.59,1489(E),27-03-2025
+143,Carboxymethyl cellulose,Drops 1%,1 ML,16.98,1489(E),27-03-2025
+144,Cefadroxil,Tablet 500mg,1 Tablet,6.87,1489(E),27-03-2025
+145,Cefadroxil,Oral liquid 125mg/5mL(p),1 ML,0.69,1489(E),27-03-2025
+146,Cefixime,Tablet 400mg,1 Tablet,22.63,1489(E),27-03-2025
+147,Cefixime,Tablet 200mg,1 Tablet,10.01,1489(E),27-03-2025
+148,Cefixime,Oral liquid 50 mg/5 mL (p),1 ML,1.67,1489(E),27-03-2025
+149,Cefixime,Oral liquid 100mg/5mL(p),1 ML,2.45,1489(E),27-03-2025
+150,Cefixime,Capsule 200mg,1 Capsule,15.04,1489(E),27-03-2025
+151,Cefotaxime,Powder for Injection 250 mg,1 Vial,18.15,1489(E),27-03-2025
+152,Cefotaxime,Powder for Injection 500 mg,1 Vial,24.96,1489(E),27-03-2025
+153,Cefotaxime,Powder for Injection 1000mg,1 Vial,40.92,1489(E),27-03-2025
+154,Ceftazidime,Powder for Injection 1000mg,1 Vial,232.47,1489(E),27-03-2025
+155,Ceftazidime,Powder for Injection 250 mg,1 Vial,80.97,1489(E),27-03-2025
+156,Ceftriaxone,Powder for Injection 500 mg,1 Vial,51.49,1489(E),27-03-2025
+157,Ceftriaxone,Powder for Injection 250 mg,1 Vial,29.02,1489(E),27-03-2025
+158,Ceftriaxone,Powder for Injection 1000mg,1 Vial,63.88,1489(E),27-03-2025
+159,Ceftriaxone,Powder for Injection 2000mg,1 Vial,141.43,1489(E),27-03-2025
+160,Cefuroxime,Oral liquid 125mg/5mL(p),1 ML,5.44,1489(E),27-03-2025
+161,Cefuroxime,Tablet 500mg,1 Tablet,52.67,1489(E),27-03-2025
+162,Cefuroxime,Injection 1500 mg,1 Vial,346.90,1489(E),27-03-2025
+163,Cetirizine,Tablet 10mg,1 Tablet,1.92,1489(E),27-03-2025
+164,Cetirizine,Oral liquid 5mg/5mL(p),1 ML,0.67,1489(E),27-03-2025
+165,Chlorambucil,Tablet 2 mg,1 Tablet,31.91,1489(E),27-03-2025
+166,Chlorambucil,Tablet 5 mg,1 Tablet,79.06,1489(E),27-03-2025
+167,Chloroquine,Tablet 150 mg,1 Tablet,1.36,1489(E),27-03-2025
+168,Chloroquine,Oral liquid 50mg/5mL,1 ML,0.35,1489(E),27-03-2025
+169,Cholecalciferol,Tablet 1000 IU,1 Tablet,4.42,1489(E),27-03-2025
+170,Cholecalciferol,Oral liquid 400 IU/mL,1 ML,2.68,1489(E),27-03-2025
+171,Cholecalciferol,Tablet 60000 IU,1 Tablet,23.04,1489(E),27-03-2025
+172,Cholecalciferol,Capsule 60000 IU,1 Capsule,31.52,1489(E),27-03-2025
+173,Cholecalciferol,Capsule 1000 IU,1 Capsule,5.01,1489(E),27-03-2025
+174,Cholecalciferol,Solid oral dosage form 60000 IU Sachet/Granuels/Powder,1 GM,34.79,1489(E),27-03-2025
+175,Cholecalciferol,Solid oral dosage form 1000 IU Sachet/Granuels/Powder,1 GM,23.69,1489(E),27-03-2025
+176,Ciprofloxacin,Tablet 250mg,1 Tablet,2.25,1489(E),27-03-2025
+177,Ciprofloxacin,Tablet 500mg,1 Tablet,4.35,1489(E),27-03-2025
+178,Ciprofloxacin,Drops 0.3 %,1 ML,1.58,1489(E),27-03-2025
+179,Ciprofloxacin,Injection 200mg/100mL,1 ML,0.20,1489(E),27-03-2025
+180,Ciprofloxacin,Oral liquid 250mg/5mL(p),1 ML,0.75,1489(E),27-03-2025
+181,Ciprofloxacin,Ointment 0.3%,1 GM,1.32,1489(E),27-03-2025
+182,Cisplatin,Injection 1mg/mL,1 ML,7.26,1489(E),27-03-2025
+183,Clarithromycin,Tablet 500mg,1 Tablet,40.79,1489(E),27-03-2025
+184,Clarithromycin,Tablet 250mg,1 Tablet,24.64,1489(E),27-03-2025
+185,Clarithromycin,Oral liquid 125mg/5mL(p),1 ML,4.76,1489(E),27-03-2025
+186,Clindamycin,Capsule 150mg,1 Capsule,16.75,1489(E),27-03-2025
+187,Clindamycin,Capsule 300mg,1 Capsule,29.05,1489(E),27-03-2025
+188,Clindamycin,Tablet 300mg,1 Tablet,19.43,1489(E),27-03-2025
+189,Clindamycin,Injection150mg/mL,1 ML,62.05,1489(E),27-03-2025
+190,Clobazam,Tablet 5mg,1 Tablet,5.87,1489(E),27-03-2025
+191,Clobazam,Tablet 10mg,1 Tablet,10.08,1489(E),27-03-2025
+192,Clofazimine,Capsule100mg,1 Capsule,4.08,1489(E),27-03-2025
+193,Clofazimine,Capsule 50mg,1 Capsule,2.16,1489(E),27-03-2025
+194,Clomiphene citrate,Capsule 50mg,1 Capsule,28.03,1489(E),27-03-2025
+195,Clomiphene citrate,Capsule 100 mg,1 Capsule,52.37,1489(E),27-03-2025
+196,Clomiphenecitrate,Tablet 100 mg,1 Tablet,14.28,1489(E),27-03-2025
+197,Clomiphenecitrate,Tablet 50mg,1 Tablet,9.05,1489(E),27-03-2025
+198,Clomipramine,Tablet 10 mg,1 Tablet,2.92,1489(E),27-03-2025
+199,Clomipramine,Tablet 25 mg,1 Tablet,6.37,1489(E),27-03-2025
+200,Clomipramine,Tablet 75 mg,1 Tablet,16.86,1489(E),27-03-2025
+201,Clonazepam,Tablet 0.25mg,1 Tablet,2.07,1489(E),27-03-2025
+202,Clonazepam,Tablet 0.5mg,1 Tablet,3.53,1489(E),27-03-2025
+203,Clonazepam,Tablet 1mg,1 Tablet,4.88,1489(E),27-03-2025
+204,Clopidogrel,Tablet 75mg,1 Tablet,6.82,1489(E),27-03-2025
+205,Clopidogrel,Tablet 150 mg,1 Tablet,20.98,1489(E),27-03-2025
+206,Clotrimazole,Lotion 1%,1 ML,3.99,1489(E),27-03-2025
+207,Clotrimazole,Pessary 100mg,1 Pessary,10.25,1489(E),27-03-2025
+208,Clotrimazole,Drops 1%,1 ML,3.45,1489(E),27-03-2025
+209,Clotrimazole,Cream1%,1 GM,3.07,1489(E),27-03-2025
+210,Cloxacillin,Capsule 500mg,1 Capsule,2.44,1489(E),27-03-2025
+211,Cloxacillin,Capsule 250mg,1 Capsule,1.44,1489(E),27-03-2025
+212,Clozapine,Tablet 25mg,1 Tablet,2.85,1489(E),27-03-2025
+213,Clozapine,Tablet 50mg,1 Tablet,5.31,1489(E),27-03-2025
+214,Clozapine,Tablet 100 mg,1 Tablet,8.66,1489(E),27-03-2025
+215,Colchicine,Tablet 0.5mg,1 Tablet,3.34,1489(E),27-03-2025
+216,Co-trimoxazole [Sulphamethoxazole (A) +Trimethoprim(B)]*,Tablet 400 mg (A) + 80 mg (B),1 Tablet,0.93,1489(E),27-03-2025
+217,Co-trimoxazole [Sulphamethoxazole (A)+Trimethoprim (B)],Tablet 800mg (A) + 160 mg (B),1 Tablet,2.36,1489(E),27-03-2025
+218,Co-trimoxazole [Sulphamethoxazole(A) +Trimethoprim(B)]*,Oral liquid 200 mg (A) + 40 mg(B)/5mL(p),1 ML,0.36,1489(E),27-03-2025
+219,Cyclophosphamide,Powder for Injection 500mg,1 Vial,75.25,1489(E),27-03-2025
+220,Cyclophosphamide,Tablet 50mg,1 Tablet,3.81,1489(E),27-03-2025
+221,Cycloserine,Capsule250mg,1 Capsule,60.61,1489(E),27-03-2025
+222,Cycloserine,Tablet 250mg,1 Tablet,47.11,1489(E),27-03-2025
+223,Cyclosporine,Capsule 25 mg,1 Capsule,28.72,1489(E),27-03-2025
+224,Cyclosporine,Oral liquid 100mg/mL(p),1 ML,82.51,1489(E),27-03-2025
+225,Cyclosporine,Capsule 50 mg,1 Capsule,56.43,1489(E),27-03-2025
+226,Cyclosporine,Capsule 100mg,1 Capsule,105.59,1489(E),27-03-2025
+227,Cytosine arabinoside,Injection 1000mg/vial,1 Vial,1157.47,1489(E),27-03-2025
+228,Cytosine arabinoside,Injection 100mg/vial,1 Vial,142.94,1489(E),27-03-2025
+229,Cytosine arabinoside,Injection 500mg/vial,1 Vial,549.20,1489(E),27-03-2025
+230,Dabigatran,Capsule 110mg,1 Capsule,32.57,1489(E),27-03-2025
+231,Dabigatran,Capsule 150mg,1 Capsule,36.45,1489(E),27-03-2025
+232,Dacarbazine,Powder for Injection 200mg,1 Vial,390.91,1489(E),27-03-2025
+233,Dacarbazine,Powder for Injection 500mg,1 Vial,531.29,1489(E),27-03-2025
+234,Daclatasvir,Tablet 60mg,1 Tablet,204.77,1489(E),27-03-2025
+235,Dapsone,Tablet 100 mg,1 Tablet,0.42,1489(E),27-03-2025
+236,Darunavir,Tablet 600mg,1 Tablet,158.15,1489(E),27-03-2025
+237,Darunavir (A) +Ritonavir (B),Tablet 600mg (A) + 100mg (B),1 Tablet,149.98,1489(E),27-03-2025
+238,Desferrioxamine,Powder for Injection 500mg,1 Vial,289.77,1489(E),27-03-2025
+239,Dexamethasone,Tablet 0.5mg,1 Tablet,0.22,1489(E),27-03-2025
+240,Dexamethasone,Tablet 4 mg,1 Tablet,4.73,1489(E),27-03-2025
+241,Dexamethasone,Injection 4mg/mL (2 ML),1 ML,5.21,1489(E),27-03-2025
+242,Dexamethasone,Injection 4mg/mL (5 ML),1 ML,2.63,1489(E),27-03-2025
+243,Dexamethasone,Injection 4mg/mL (Pack of 10ML),1 ML,1.61,1489(E),27-03-2025
+244,Dexamethasone,Injection 4mg/mL (Pack of 20 ML),1 ML,1.38,1489(E),27-03-2025
+245,Dexamethasone,Injection 4mg/mL (Pack of 30ML),1 ML,0.93,1489(E),27-03-2025
+246,Diazepam,Tablet 5 mg,1 Tablet,1.67,1489(E),27-03-2025
+247,Diazepam,Injection 5mg/mL,1 ML,5.68,1489(E),27-03-2025
+248,Diazepam,Tablet 2 mg,1 Tablet,1.48,1489(E),27-03-2025
+249,Diazepam,Suppository 5mg,1 Suppository,6.34,1489(E),27-03-2025
+250,Diclofenac,Tablet 50mg,1 Tablet,2.10,1489(E),27-03-2025
+251,Diclofenac,Injection 25mg/mL,1 ML,1.73,1489(E),27-03-2025
+252,Dicyclomine,Injection 10mg/mL (Less than 10ML Pack),1 ML,3.40,1489(E),27-03-2025
+253,Dicyclomine,Injection 10mg/mL (10 ML & more pack)),1 ML,2.15,1489(E),27-03-2025
+254,Diethylcarbamazine (DEC),Tablet 100mg,1 Tablet,1.71,1489(E),27-03-2025
+255,Diethylcarbamazine (DEC),Tablet 50mg,1 Tablet,0.57,1489(E),27-03-2025
+256,Diethylcarbamazine (DEC),Oral liquid 120mg/5mL(p),1 ML,0.49,1489(E),27-03-2025
+257,Digoxin,Tablet 0.25mg,1 Tablet,1.36,1489(E),27-03-2025
+258,Digoxin,Oral liquid0.05mg/mL,1 ML,1.51,1489(E),27-03-2025
+259,Digoxin,Injection 0.25mg/mL,1 ML,3.97,1489(E),27-03-2025
+260,Diltiazem,Tablet 60mg,1 Tablet,5.60,1489(E),27-03-2025
+261,Diltiazem,Tablet 30mg,1 Tablet,2.75,1489(E),27-03-2025
+262,Diltiazem,Injection 5mg/mL,1 ML,3.58,1489(E),27-03-2025
+263,Diltiazem,Modified Release Capsule 180mg,1 Capsule,26.89,3562(E),01-08-2025
+264,Dinoprostone,Gel 0.5mg,1 GM,86.75,1489(E),27-03-2025
+265,Disposable Pen containing Insulin Glargine,Injection 100 IU/ml,1 ML,250.00,1489(E),27-03-2025
+266,Dobutamine,Injection 50 mg/ml,1 ML,9.25,1489(E),27-03-2025
+267,Docetaxel,Powder for Injection 20mg,1 Vial,2937.27,1489(E),27-03-2025
+268,Docetaxel,Powder for Injection 80mg,1 Vial,10581.82,1489(E),27-03-2025
+269,Dolutegravir,Tablet 50mg,1 Tablet,115.50,1489(E),27-03-2025
+270,Domperidone,Tablet 10mg,1 Tablet,2.37,1489(E),27-03-2025
+271,Domperidone,Oral Liquid 1mg/mL,1 ML,1.27,1489(E),27-03-2025
+272,Donepezil,Tablet 10mg,1 Tablet,17.88,1489(E),27-03-2025
+273,Donepezil,Tablet 5mg,1 Tablet,12.40,1489(E),27-03-2025
+274,Dopamine,Injection 40mg/mL,1 ML,4.88,1489(E),27-03-2025
+275,Doxorubicin,Injection2mg/mL,1 ML,32.51,1489(E),27-03-2025
+276,Doxycycline,Capsule 100mg,1 Capsule,3.15,1489(E),27-03-2025
+277,Doxycycline,Tablet100mg,1 Tablet,1.25,1489(E),27-03-2025
+278,Doxycycline,Powder for Injection 100 mg,1 Vial,514.71,1489(E),27-03-2025
+279,D-Penicillamine,Capsule 250 mg,1 Capsule,16.02,1489(E),27-03-2025
+280,DPT+ Hib+ Hep B Vaccine,As licensed,Per 0.1 ML,77.47,1489(E),27-03-2025
+281,Efavirenz,Tablet 600mg,1 Tablet,72.29,1489(E),27-03-2025
+282,Efavirenz,Tablet 200 mg (p),1 Tablet,23.08,1489(E),27-03-2025
+283,Efavirenz,Capsule 200 mg,1 Capsule,22.51,1489(E),27-03-2025
+284,Efavirenz,Capsule 600 mg,1 Capsule,57.03,2027(E),06-05-2025
+285,Enalapril,Tablet 5mg,1 Tablet,3.78,1489(E),27-03-2025
+286,Enalapril,Tablet 2.5mg,1 Tablet,2.24,1489(E),27-03-2025
+287,Enoxaparin,"Injection40mg/0.4mL, Injection 60mg/0.6 ml",Per 0.10 ML,114.68,1489(E),27-03-2025
+288,Entecavir,Tablet 1mg,1 Tablet,133.37,1489(E),27-03-2025
+289,Entecavir,Tablet 0.5mg,1 Tablet,86.47,1489(E),27-03-2025
+290,Erythropoietin,Injection 2000IU/mL,1 ML,562.77,1489(E),27-03-2025
+291,Erythropoietin,Injection 10000 IU/mL,1 ML,2016.39,1489(E),27-03-2025
+292,Escitalopram,Tablet 5mg,1 Tablet,5.14,1489(E),27-03-2025
+293,Escitalopram,Tablet 10mg,1 Tablet,9.22,1489(E),27-03-2025
+294,Escitalopram,Tablet 20mg,1 Tablet,14.70,1489(E),27-03-2025
+295,Esmolol,Injection10 mg/mL,1 ML,27.01,1489(E),27-03-2025
+296,Ethambutol,Tablet 600mg,1 Tablet,4.18,1489(E),27-03-2025
+297,Ethambutol,Tablet 800mg,1 Tablet,5.08,1489(E),27-03-2025
+298,Ethambutol,Tablet 400mg,1 Tablet,2.68,1489(E),27-03-2025
+299,Ethambutol,Tablet 200mg,1 Tablet,1.17,1489(E),27-03-2025
+300,Ethinylestradiol (A)+ Levonorgestrel (B),Tablet 0.03mg(A) + Tablet 0.15mg(B),1 Tablet,3.25,1489(E),27-03-2025
+301,Ethionamide,Tablet 250mg,1 Tablet,15.17,1489(E),27-03-2025
+302,Ethyl alcohol (Denatured),Solution 70%,1 ML,0.40,5018(E),04-11-2025
+303,Etoposide,Capsule 50mg,1 Capsule,57.99,1489(E),27-03-2025
+304,Etoposide,Injection 20mg/mL,1 ML,35.34,1489(E),27-03-2025
+305,Fentanyl,Injection 50mcg/ml,1 ml,21.46,1489(E),27-03-2025
+306,Filgrastim,Injection 300mcg,1 Vial,1187.83,1489(E),27-03-2025
+307,Fluconazole,Tablet 400mg,1 Tablet,30.47,1489(E),27-03-2025
+308,Fluconazole,Tablet 200mg,1 Tablet,17.88,1489(E),27-03-2025
+309,Fluconazole,Tablet 100mg,1 Tablet,7.80,1489(E),27-03-2025
+310,Fluconazole,Tablet 150mg,1 Tablet,12.35,1489(E),27-03-2025
+311,Fluconazole,Tablet 50mg,1 Tablet,9.91,1489(E),27-03-2025
+312,Fluconazole,Capsule 200mg,1 Capsule,41.08,1489(E),27-03-2025
+313,Fluconazole,Capsule 150mg,1 Capsule,19.68,1489(E),27-03-2025
+314,Fluconazole,Injection 200mg/100mL,Per 100 ML Vial,94.55,1489(E),27-03-2025
+315,Fluconazole,Capsule 100mg,1 Capsule,21.91,1489(E),27-03-2025
+316,Fludrocortisone,Tablet 0.1mg,1 Tablet,13.52,1489(E),27-03-2025
+317,Flunarizine,Tablet 5mg,1 Tablet,2.54,1489(E),27-03-2025
+318,Flunarizine,Tablet 10mg,1 Tablet,4.93,1489(E),27-03-2025
+319,Fluoxetine,Capsule 20 mg,1 Capsule,4.09,1489(E),27-03-2025
+320,Fluoxetine,Capsule 60 mg,1 Capsule,11.36,1489(E),27-03-2025
+321,Fluoxetine,Capsule 40 mg,1 Capsule,6.64,1489(E),27-03-2025
+322,Fluoxetine,Capsule 10 mg,1 Capsule,3.40,1489(E),27-03-2025
+323,Fluoxetine,Tablet 10 mg,1 Tablet,2.85,1489(E),27-03-2025
+324,Fluoxetine,Tablet 40 mg,1 Tablet,5.70,1489(E),27-03-2025
+325,Fluoxetine,Tablet 60 mg,1 Tablet,8.44,1489(E),27-03-2025
+326,Fluoxetine,Tablet 20 mg,1 Tablet,4.25,1489(E),27-03-2025
+327,Fluphenazine,Injection 25mg/mL,1 ML,56.59,1489(E),27-03-2025
+328,Folic Acid,Tablet 5 mg,1 Tablet,1.55,1489(E),27-03-2025
+329,Folic Acid,Capsule 5 mg,1 Capsule,5.16,1489(E),27-03-2025
+330,Framycetin,Cream 1 %,1 GM,1.70,1489(E),27-03-2025
+331,Furosemide,Tablet 40mg,1 Tablet,0.94,1489(E),27-03-2025
+332,Furosemide,Injection 10mg/mL,1 ML,3.06,1489(E),27-03-2025
+333,Furosemide,Oral liquid 10mg/mL,1 ML,3.40,1489(E),27-03-2025
+334,Fusidic acid,Cream 2 %,1 GM,10.06,1489(E),27-03-2025
+335,Gefitinib,Tablet 250mg,1 Tablet,242.84,1489(E),27-03-2025
+336,Gemcitabine,Powder for Injection 1000mg,1 Vial,5726.84,1489(E),27-03-2025
+337,Gemcitabine,Powder for Injection 200 mg,1 Vial,1331.01,1489(E),27-03-2025
+338,Gentamicin,Injection 40mg/mL (1.5 ml),1 ML,2.97,1489(E),27-03-2025
+339,Gentamicin,Injection 10mg/mL,1 ML,2.47,1489(E),27-03-2025
+340,Gentamicin,Injection 40mg/mL (Pack of 10ml),1 ML,1.55,1489(E),27-03-2025
+341,Gentamicin,Injection 40mg/mL (Pack of 20ml),1 ML,1.59,1489(E),27-03-2025
+342,Gentamicin,Injection 40mg/mL (Pack of 30ml),1 ML,1.26,1489(E),27-03-2025
+343,Gentamicin,Injection 40mg/mL (2ml),1 ML,4.96,1489(E),27-03-2025
+344,Glimepiride,Tablet 2mg,1 Tablet,5.94,1489(E),27-03-2025
+345,Glimepiride,Tablet 1mg,1 Tablet,3.78,1489(E),27-03-2025
+346,Glucose,Injection 25%,1 ML,0.20,1489(E),27-03-2025
+347,Glycerin/glycerol (as mentioned in IP),Topical - Lotion,1 ML,1.26,1489(E),27-03-2025
+348,Glycerin/glycerol (as mentioned in IP),Topical - Cream,1 GM,2.43,1489(E),27-03-2025
+349,Glyceryl trinitrate,Injection 5mg/mL,1 ML,6.34,1489(E),27-03-2025
+350,Glyceryl trinitrate,Sublingual Tablet 0.5mg,1 Tablet,1.30,1489(E),27-03-2025
+351,Glycopyrrolate,Injection 0.2mg/mL,1 ML,14.88,1489(E),27-03-2025
+352,Griseofulvin,Tablet 250mg,1 Tablet,1.81,1489(E),27-03-2025
+353,Haloperidol,Tablet 5mg,1 Tablet,3.65,1489(E),27-03-2025
+354,Haloperidol,Tablet 10mg,1 Tablet,4.89,1489(E),27-03-2025
+355,Haloperidol,Oral liquid 2mg/5mL,1 ML,2.29,1489(E),27-03-2025
+356,Haloperidol,Injection 5mg/mL,1 ML,6.66,1489(E),27-03-2025
+357,Haloperidol,Tablet 20mg,1 Tablet,5.49,1489(E),27-03-2025
+358,Haloperidol,Tablet 1.5mg,1 Tablet,1.62,1489(E),27-03-2025
+359,Halothane,Liquid for inhalation,1 ML,6.25,1489(E),27-03-2025
+360,Heparin,Injection 1000IU/mL,1 ML,21.72,1489(E),27-03-2025
+361,Heparin,Injection 5000IU/mL,1 ML,61.40,1489(E),27-03-2025
+362,Hepatitis B immunoglobulin,As Licensed,1 Vial,5630.73,1489(E),27-03-2025
+363,Hepatitis B vaccine,As Licensed,1 ML,80.71,1489(E),27-03-2025
+364,Homatropine,Drops 2%,1 ML,6.55,1489(E),27-03-2025
+365,Hormone Releasing IUD,Contains 52 mg of Levonorgestrel,1 IUD,4202.06,1489(E),27-03-2025
+366,Human chorionic gonado tropin,Injection 5000 IU,1 Vial,427.50,1489(E),27-03-2025
+367,Human chorionic gonado tropin,Injection 10000IU,1 Vial,950.59,1489(E),27-03-2025
+368,Human chorionic gonado tropin,Injection 2000 IU,1 Vial,351.91,1489(E),27-03-2025
+369,Human normal immunoglobulin,Solution for infusion (16.5%),1 ML,481.68,5018(E),04-11-2025
+370,Human normal immunoglobulin,Solution for infusion (10%),1 ML,207.87,5018(E),04-11-2025
+371,Human normal immunoglobulin,Solution for infusion (5%),1 ML,149.57,5018(E),04-11-2025
+372,Hydrochlorothiazide,Tablet 25 mg,1 Tablet,1.79,1489(E),27-03-2025
+373,Hydrochlorothiazide,Tablet 12.5mg,1 Tablet,1.07,1489(E),27-03-2025
+374,Hydrocortisone,Powder for Injection 100mg,1 Vial,45.87,1489(E),27-03-2025
+375,Hydrocortisone,Tablet 10mg,1 Tablet,6.86,1489(E),27-03-2025
+376,Hydrocortisone,Powder for Injection 200mg,1 Vial,67.17,1489(E),27-03-2025
+377,Hydrocortisone,Tablet 5mg,1 Tablet,3.19,1489(E),27-03-2025
+378,Hydrocortisone,Tablet 20mg,1 Tablet,15.25,1489(E),27-03-2025
+379,Hydroxy propylmethyl cellulose,Injection 2%,1 ML,29.91,1489(E),27-03-2025
+380,Hydroxychloroquine,Tablet 400mg,1 Tablet,14.13,1489(E),27-03-2025
+381,Hydroxychloroquine,Tablet 200mg,1 Tablet,6.51,1489(E),27-03-2025
+382,Hydroxyurea,Capsule 500mg,1 Capsule,12.41,1489(E),27-03-2025
+383,Hyoscine butylbromide,Injection 20 mg/ml,1 ML,11.51,1489(E),27-03-2025
+384,Ibuprofen,Tablet 200mg,1 Tablet,0.72,1489(E),27-03-2025
+385,Ibuprofen,Tablet 400mg,1 Tablet,1.23,1489(E),27-03-2025
+386,Ibuprofen,Oral liquid 100mg/5mL(p),1 ML,0.22,1489(E),27-03-2025
+387,Ibuprofen,Capsule 400 mg,1 Capsule,1.34,2027(E),06-05-2025
+388,Ifosfamide,Powder for Injection 2000mg,1 Vial,658.60,1489(E),27-03-2025
+389,Ifosfamide,Powder for Injection 1000mg,1 Vial,326.62,1489(E),27-03-2025
+390,Imatinib,Tablet 100mg,1 Tablet,71.42,1489(E),27-03-2025
+391,Imatinib,Tablet 400mg,1 Tablet,204.41,1489(E),27-03-2025
+392,Imatinib,Capsule 100mg,1 Capsule,75.25,1489(E),27-03-2025
+393,Insulin (Soluble),Injection 40 IU/ml,1 ml,17.40,1489(E),27-03-2025
+394,Insulin Glargine,Injection 100 IU/ml,1 ML,208.34,1489(E),27-03-2025
+395,Insulin Intermediate Acting (NPH),Injection 40IU/mL,1 ML,17.40,1489(E),27-03-2025
+396,Iohexol,Injection 300mg iodine/mL,1 ML,19.87,2026(E),06-05-2025
+397,Iohexol,Injection 350mg iodine/mL,1 ML,14.58,1489(E),27-03-2025
+398,Ipratropium,Respirator solution for use in nebulizer 250mcg/mL,1 ml,2.98,3562(E),01-08-2025
+399,Irinotecan HCltrihydrate,Solution for injection 20mg/mL,1 ML,988.06,1489(E),27-03-2025
+400,Iron sucrose,Injection 20mg/mL,1 ML,58.79,1489(E),27-03-2025
+401,Isoflurane,Liquid for inhalation,1 ML,9.88,1489(E),27-03-2025
+402,Isoniazid,Tablet 100mg,1 Tablet,0.74,1489(E),27-03-2025
+403,Isoniazid,Tablet 300mg,1 Tablet,1.32,1489(E),27-03-2025
+404,Isosorbide dinitrate,Tablet 5mg,1 Tablet,0.84,1489(E),27-03-2025
+405,Isosorbide dinitrate,Tablet 10mg,1 Tablet,0.83,1489(E),27-03-2025
+406,Ispaghula,Granules/Husk/Powder,1 GM,0.97,1489(E),27-03-2025
+407,Itraconazole,Oral liquid 10mg/mL,1 ML,5.06,1489(E),27-03-2025
+408,Itraconazole,Capsule 100mg,1 Capsule,17.07,1489(E),27-03-2025
+409,Itraconazole,Capsule 200mg,1 Capsule,22.65,1489(E),27-03-2025
+410,IUD containing Copper,As licensed,1 IUD,287.77,1489(E),27-03-2025
+411,Ivermectin,Tablet 6 mg,1 Tablet,22.10,1489(E),27-03-2025
+412,Ivermectin,Tablet 12 mg,1 Tablet,38.27,1489(E),27-03-2025
+413,Japanese encephalitis vaccine,As licensed (4mcg to 6 mcg),1 Vial,693.43,1489(E),27-03-2025
+414,Japanese encephalitis vaccine,As licensed (upto 3 mcg),1 Vial,531.12,1489(E),27-03-2025
+415,Ketamine,Injection 50mg/mL,1 ML,12.41,1489(E),27-03-2025
+416,Labetalol,Injection 5mg/mL,1 ML,51.18,1489(E),27-03-2025
+417,Labetalol,Tablet 100 mg,1 Tablet,15.52,1489(E),27-03-2025
+418,Lactulose,Oral liquid 10 g/15mL,1 ML,1.26,1489(E),27-03-2025
+419,Lamivudine,Tablet 100mg,1 Tablet,11.33,1489(E),27-03-2025
+420,Lamivudine,Tablet 150mg,1 Tablet,11.12,1489(E),27-03-2025
+421,L-Asparaginase,Powder for Injection 5000 KU,1 Vial,1059.73,1489(E),27-03-2025
+422,L-Asparaginase,Powder for Injection 10000KU,1 Vial,1748.75,1489(E),27-03-2025
+423,Latanoprost,Drops 0.005%,1 ML,238.17,1489(E),27-03-2025
+424,Lenalidomide,Capsule 5mg,1 Capsule,68.86,1489(E),27-03-2025
+425,Lenalidomide,Capsule 25 mg,1 Capsule,299.30,1489(E),27-03-2025
+426,Letrozole,Tablet 2.5mg,1 Tablet,30.02,1489(E),27-03-2025
+427,Leuprolide acetate,Powder for injection 22.5 mg,1 Vial,17491.66,1489(E),27-03-2025
+428,Leuprolide acetate,Powder for injection 11.25mg,1 Vial,9517.65,1489(E),27-03-2025
+429,Leuprolide acetate,Powder for injection 3.75 mg,1 Vial,3187.41,1489(E),27-03-2025
+430,Levetiracetam,Tablet 250mg,1 Tablet,6.45,1489(E),27-03-2025
+431,Levetiracetam,Tablet 500mg,1 Tablet,13.30,1489(E),27-03-2025
+432,Levetiracetam,Modified Release Tablet 750mg,1 Tablet,18.74,1489(E),27-03-2025
+433,Levetiracetam,Tablet 750mg,1 Tablet,19.81,1489(E),27-03-2025
+434,Levetiracetam,Oral liquid 100 mg/mL (p),1 ML,4.07,1489(E),27-03-2025
+435,Levetiracetam,Injection 100mg/mL,1 ML,23.57,1489(E),27-03-2025
+436,Levodopa (A) + Carbidopa (B),Modified Release–Tablet 200mg (A) + 50mg (B),1 Tablet,4.84,1489(E),27-03-2025
+437,Levodopa (A) +Carbidopa(B),Tablet 100 mg (A) + 25 mg (B),1 Tablet,2.64,1489(E),27-03-2025
+438,Levodopa (A) +Carbidopa(B),Tablet 100 mg (A) + 10 mg (B),1 Tablet,1.80,1489(E),27-03-2025
+439,Levodopa (A) +Carbidopa(B),Tablet 250mg(A) +25mg(B),1 Tablet,4.53,1489(E),27-03-2025
+440,Levodopa (A) +Carbidopa(B),Modified Release–Tablet 100 mg (A) + 25 mg (B),1 Tablet,2.86,1489(E),27-03-2025
+441,Levofloxacin,Tablet 750mg,1 Tablet,12.75,1489(E),27-03-2025
+442,Levofloxacin,Tablet 250mg,1 Tablet,4.93,1489(E),27-03-2025
+443,Levofloxacin,Tablet 500mg,1 Tablet,9.21,1489(E),27-03-2025
+444,Levonorgestrel,Tablet 1.5mg,1 Tablet,77.16,1489(E),27-03-2025
+445,Levothyroxine,Tablet 50mcg,1 Tablet,1.06,1489(E),27-03-2025
+446,Levothyroxine,Tablet 75mcg,1 Tablet,1.48,1489(E),27-03-2025
+447,Levothyroxine,Tablet 88 mcg,1 Tablet,1.69,1489(E),27-03-2025
+448,Levothyroxine,Tablet 112 mcg,1 Tablet,1.70,1489(E),27-03-2025
+449,Levothyroxine,Tablet 25 mcg,1 Tablet,1.49,1489(E),27-03-2025
+450,Levothyroxine,Tablet 62.5mcg,1 Tablet,1.65,1489(E),27-03-2025
+451,Levothyroxine,Tablet 12.5mcg,1 Tablet,1.52,1489(E),27-03-2025
+452,Levothyroxine,Tablet 100mcg,1 Tablet,1.35,1489(E),27-03-2025
+453,Levothyroxine,Tablet 125mcg,1 Tablet,1.73,1489(E),27-03-2025
+454,Levothyroxine,Tablet 150 mcg,1 Tablet,1.74,1489(E),27-03-2025
+455,Lignocaine,Injection 1%,1 ML,9.08,1489(E),27-03-2025
+456,Lignocaine,Injection 5% with 7.5% glucose,1 ML,3.58,1489(E),27-03-2025
+457,Lignocaine,Topical forms 2-5 %,1 GM or 1 ML,1.11,1489(E),27-03-2025
+458,Lignocaine,Injection 2%,1 ML,1.17,1489(E),27-03-2025
+459,Lignocaine (A) +Adrenaline(B),Injection2%(A)+1:200000(5 mcg/mL)(B),1 ML,1.08,1489(E),27-03-2025
+460,Linezolid,Tablet 600mg,1 Tablet,36.53,1489(E),27-03-2025
+461,Linezolid,Tablet 300 mg,1 Tablet,23.19,1489(E),27-03-2025
+462,Lithium,Tablet 300mg,1 Tablet,2.51,1489(E),27-03-2025
+463,Loperamide,Tablet 2mg,1 Tablet,2.34,1489(E),27-03-2025
+464,Loperamide,Capsule 2mg,1 Capsule,3.89,1489(E),27-03-2025
+465,Lopinavir (A) + Ritonavir(B),Tablet 200 mg (A) + 50mg (B),1 Tablet,49.12,1489(E),27-03-2025
+466,Lorazepam,Tablet 1 mg,1 Tablet,2.37,1489(E),27-03-2025
+467,Lorazepam,Tablet 2 mg,1 Tablet,2.88,1489(E),27-03-2025
+468,Lorazepam,Injection 2mg/mL,1 ML,8.29,1489(E),27-03-2025
+469,Magnesium sulphate,Injection 500mg/mL,1 ML,4.98,1489(E),27-03-2025
+470,Mannitol,Injection 20 %,1 ML,0.36,1489(E),27-03-2025
+471,Mannitol,Injection 10 %,1 ML,0.19,1489(E),27-03-2025
+472,Measles Rubella vaccine,As licensed,Each Vial of 0.5ml,72.90,1489(E),27-03-2025
+473,Measles vaccine,As licensed,Each Vial of 0.5ml,51.40,1489(E),27-03-2025
+474,Mebendazole,Tablet 100 mg,1 Tablet,2.97,1489(E),27-03-2025
+475,Mebendazole,Oral liquid 100mg/5mL(p),1 ML,0.86,1489(E),27-03-2025
+476,Medroxyprogesterone acetate,Tablet 10 mg,1 Tablet,6.40,1489(E),27-03-2025
+477,Medroxyprogesterone acetate,Injection 150mg/mL,1 ML,296.72,1489(E),27-03-2025
+478,Mefenamic acid,Oral liquid 100mg/5mL(p),1 ML,0.57,1489(E),27-03-2025
+479,Mefenamic acid,Tablet 250 mg,1 Tablet,2.16,1489(E),27-03-2025
+480,Mefloquine,Tablet 250 mg,1 Tablet,53.41,1489(E),27-03-2025
+481,Meglumine diatrizoate,Injection 60%w/v,1 ML,9.69,1489(E),27-03-2025
+482,Meglumine diatrizoate,Injection 76%w/v,1 ML,10.45,1489(E),27-03-2025
+483,Melphalan,Tablet 2 mg,1 Tablet,93.53,1489(E),27-03-2025
+484,Melphalan,Tablet 5 mg,1 Tablet,88.11,1489(E),27-03-2025
+485,Meropenem,Powder for Injection 500 mg (as trihydrate),1 Vial,740.38,1489(E),27-03-2025
+486,Meropenem,Powder for Injection1000mg (as trihydrate),1 Vial,975.62,1489(E),27-03-2025
+487,Mesna,Injection 100mg/mL,1 ML,15.88,1489(E),27-03-2025
+488,Metformin,Tablet 1000mg,1 Tablet,3.57,1489(E),27-03-2025
+489,Metformin,Tablet 500mg,1 Tablet,2.07,1489(E),27-03-2025
+490,Metformin,Modified release Tablet 1000mg,1 Tablet,4.15,1489(E),27-03-2025
+491,Methotrexate,Tablet 10mg,1 tablet,13.61,1489(E),27-03-2025
+492,Methotrexate,Tablet 2.5mg,1 tablet,5.44,1489(E),27-03-2025
+493,Methotrexate,Tablet 5mg,1 Tablet,9.65,1489(E),27-03-2025
+494,Methylergometrine,Tablet 0.125mg,1 Tablet,9.16,1489(E),27-03-2025
+495,Methylergometrine,Injection 0.2mg/mL,1 ML,15.31,1489(E),27-03-2025
+496,Methylprednisolone,Injection 40mg/mL,1 ML,46.76,1489(E),27-03-2025
+497,Metoclopramide,Tablet 10mg,1 Tablet,1.38,1489(E),27-03-2025
+498,Metoclopramide,Injection 5mg/mL (Less than 10ML Pack),1 ML,2.74,1489(E),27-03-2025
+499,Metoclopramide,Injection 5mg/mL (10 ML & More Pack),1 ML,1.67,1489(E),27-03-2025
+500,Metoclopramide,Oral liquid 5mg/5mL(p),1 ML,0.51,1489(E),27-03-2025
+501,Metoprolol,Tablet 25mg,1 Tablet,4.35,1489(E),27-03-2025
+502,Metoprolol,Tablet 50mg,1 Tablet,5.98,1489(E),27-03-2025
+503,Metoprolol,Modified Release Tablet 100 mg,1 Tablet,15.35,1489(E),27-03-2025
+504,Metoprolol,Tablet 100 mg,1 Tablet,11.39,1489(E),27-03-2025
+505,Metoprolol,Capsule 25mg,1 Capsule,4.24,1489(E),27-03-2025
+506,Metoprolol,Capsule 50mg,1 Capsule,5.96,1489(E),27-03-2025
+507,Metoprolol,Injection 1mg/ML,1 ML,3.48,1489(E),27-03-2025
+508,Metronidazole,Tablet 200mg,1 Tablet,0.84,1489(E),27-03-2025
+509,Metronidazole,Tablet 400mg,1 Tablet,1.56,1489(E),27-03-2025
+510,Metronidazole,Injection 500mg/100mL,1 ML,0.21,1489(E),27-03-2025
+511,Metronidazole,Oral liquid 200mg/5mL(p),1 ML,0.53,1489(E),27-03-2025
+512,Midazolam,Nasal Spray 1.25mg/ actuation,1 ML,222.02,1489(E),27-03-2025
+513,Midazolam,Nasal Spray 0.5 mg/actuation,1 ML,81.85,1489(E),27-03-2025
+514,Midazolam,Injection 1mg/mL,1 ML,6.06,1489(E),27-03-2025
+515,Midazolam,Injection 5mg/mL,1 ML,11.14,1489(E),27-03-2025
+516,Mifepristone,Tablet 200mg,1 Tablet,359.35,1489(E),27-03-2025
+517,Misoprostol,Tablet 200mcg,1 Tablet,19.43,1489(E),27-03-2025
+518,Misoprostol,Tablet 100mcg,1 Tablet,10.16,1489(E),27-03-2025
+519,Montelukast,Tablet 5 mg (including chewable Tablets),1 Tablet,12.30,1489(E),27-03-2025
+520,Montelukast,Tablet 4 mg,1 Tablet,10.48,1489(E),27-03-2025
+521,Montelukast,Tablet 10 mg,1 Tablet,16.84,1489(E),27-03-2025
+522,Morphine,Injection 10mg/mL,1 ML,20.07,1489(E),27-03-2025
+523,Morphine,Injection 15mg/mL,1 ML,15.29,1489(E),27-03-2025
+524,Moxifloxacin,Tablet 400mg,1 Tablet,26.44,1489(E),27-03-2025
+525,Mupirocin,Ointment 2%,1 GM,20.77,1489(E),27-03-2025
+526,Mycophenolate mofetil,Tablet 500mg,1 Tablet,76.38,1489(E),27-03-2025
+527,Mycophenolate mofetil,Tablet 250mg,1 Tablet,50.79,1489(E),27-03-2025
+528,N-acetylcysteine,Injection 200 mg/mL,1 ML,24.21,1489(E),27-03-2025
+529,Naloxone,Injection 0.4mg/mL,1 ML,94.95,1489(E),27-03-2025
+530,Natamycin,Drops 5%,1 ML,23.94,1489(E),27-03-2025
+531,Neostigmine,Injection 0.5mg/mL,1 ML,5.13,1489(E),27-03-2025
+532,Neostigmine,Tablet 15mg,1 Tablet,4.70,1489(E),27-03-2025
+533,Nevirapine,Tablet 200 mg,1 Tablet,16.17,1489(E),27-03-2025
+534,Nicotine (for nicotine replacement therapy),Lozenge 2mg,1 Lozenges,8.11,1489(E),27-03-2025
+535,Nicotine (for nicotine replacement therapy),Gum 2 mg,1 Gum,8.80,1489(E),27-03-2025
+536,Nicotine (for nicotine replacement therapy),Gum 4 mg,1 Gum,10.90,1489(E),27-03-2025
+537,Nicotine (for nicotine replacement therapy),Lozenge 4mg,1 Lozenges,9.98,1489(E),27-03-2025
+538,Nicotine (for nicotine replacement therapy),Oral Dosage forms 2mg Pastille,1 Pastille,7.29,1489(E),27-03-2025
+539,Nicotine (for nicotine replacement therapy),Oral Dosage forms 4mg Pastille,1 Pastille,8.02,1489(E),27-03-2025
+540,Nifedipine,Tablet 10mg,1 Tablet,1.58,1489(E),27-03-2025
+541,Nifedipine,Capsule10mg,1 Capsule,0.98,1489(E),27-03-2025
+542,Nitrofurantoin,Tablet 100 mg,1 Tablet,8.30,1489(E),27-03-2025
+543,Nitrofurantoin,Capsule 100 mg,1 Capsule,8.85,1489(E),27-03-2025
+544,Nitrofurantoin,Oral liquid 25mg/5mL(p),1 ML,0.92,1489(E),27-03-2025
+545,Nitrous oxide,As licensed for medical purpose,1 Cubic Meter,292.85,1489(E),27-03-2025
+546,Noradrenaline,Injection 2mg/mL,1 ML,20.65,1489(E),27-03-2025
+547,Norethisterone,Tablet 5mg,1 Tablet,5.52,1489(E),27-03-2025
+548,Omeprazole,Capsule 20 mg,1 Capsule,2.94,1489(E),27-03-2025
+549,Omeprazole,Tablet 20 mg,1 Tablet,4.45,1489(E),27-03-2025
+550,Omeprazole,Capsule 10 mg,1 Capsule,2.47,1489(E),27-03-2025
+551,Omeprazole,Powder for oral liquid 20mg,1 GM,1.55,1489(E),27-03-2025
+552,Omeprazole,Tablet 40 mg,1 Tablet,8.66,1489(E),27-03-2025
+553,Omeprazole,Capsule 40 mg,1 Capsule,5.81,1489(E),27-03-2025
+554,Ondansetron,Tablet 4 mg,1 Tablet,5.26,1489(E),27-03-2025
+555,Ondansetron,Oral liquid 2mg/5mL(p),1 ML,1.29,1489(E),27-03-2025
+556,Ondansetron,Injection 2mg/mL,1 ML,6.10,1489(E),27-03-2025
+557,Ondansetron,Tablet 8 mg,1 Tablet,9.28,1489(E),27-03-2025
+558,Oral Rehydration Salts,As Licensed,1 GM,1.02,1489(E),27-03-2025
+559,Oral Rehydration Salts,As licensed,1 ML,0.15,1489(E),27-03-2025
+560,Ormeloxifene (Centchroman),Tablet 30mg,1 Tablet,8.65,1489(E),27-03-2025
+561,Oxaliplatin,Injection 100mg(as licensed),1 Vial,5099.25,1489(E),27-03-2025
+562,Oxaliplatin,Injection 5 mg/mL in 10 mL vial,1 Vial,2287.59,1489(E),27-03-2025
+563,Oxygen – Liquid Medical Oxygen,As licensed for medical purpose,1 Cubic Meter,17.43,1489(E),27-03-2025
+564,Oxygen (in cylinder),As licensed for medical purpose,1 Cubic Meter,29.52,1489(E),27-03-2025
+565,Oxytocin,Injection 5 IU/mL,1 ML,18.27,1489(E),27-03-2025
+566,Oxytocin,Injection 10IU/mL,1 ML,40.82,1489(E),27-03-2025
+567,Paclitaxel,"Injection 30 mg/5 mL, injection 100 mg/16.7 ml",1 ML,220.61,1489(E),27-03-2025
+568,Pantoprazole,Injection 40mg,1 Vial,51.66,1489(E),27-03-2025
+569,Paracetamol,Tablet 650mg,1 Tablet,2.05,1489(E),27-03-2025
+570,Paracetamol,Oral Liquid 125 mg/5 mL (p),1 ML,0.38,1489(E),27-03-2025
+571,Paracetamol,Oral Liquid 250 mg/5 mL (p),1 ML,0.68,1489(E),27-03-2025
+572,Paracetamol,Oral liquid 120 mg/5 mL (p),1 ML,0.62,1489(E),27-03-2025
+573,Paracetamol,Tablet 500mg,1 Tablet,0.93,1489(E),27-03-2025
+574,Paracetamol,Suppository 80mg,1 Suppository,6.82,1489(E),27-03-2025
+575,Paracetamol,Suppository 170mg,1 Suppository,8.14,1489(E),27-03-2025
+576,Paracetamol,Injection 150mg/mL (2ML),1 ML,4.07,1489(E),27-03-2025
+577,Paracetamol,Injection150mg/mL (100 ML),1 ML,1.64,1489(E),27-03-2025
+578,Peritoneal dialysis solution,As licensed,1 ML,0.22,5018(E),04-11-2025
+579,Permethrin,Cream 5%,1 GM,1.89,1489(E),27-03-2025
+580,Permethrin,Lotion 1%,1 ML,1.03,1489(E),27-03-2025
+581,Permethrin,Cream 1%,1 GM,1.54,1489(E),27-03-2025
+582,Permethrin,Lotion 5%,1 ML or 1 GM,1.03,1489(E),27-03-2025
+583,Permethrin,Gel 5%,1 GM,1.34,1489(E),27-03-2025
+584,Pheniramine,Injection 22.75mg/mL (2ml),1 ML,2.83,1489(E),27-03-2025
+585,Pheniramine,Injection 22.75mg/mL (10ml),1 ML,2.11,1489(E),27-03-2025
+586,Phenobarbitone,Tablet 30mg,1 Tablet,1.34,1489(E),27-03-2025
+587,Phenobarbitone,Tablet 60mg,1 Tablet,1.93,1489(E),27-03-2025
+588,Phenobarbitone,Injection 200mg/mL,1 ML,22.68,1489(E),27-03-2025
+589,Phenobarbitone,Oral liquid 20mg/5mL (p),1 ML,0.50,1489(E),27-03-2025
+590,Phenytoin,Tablet 300mg,1 Tablet,5.62,1489(E),27-03-2025
+591,Phenytoin,Injection 50mg/mL,1 ML,6.09,1489(E),27-03-2025
+592,Phenytoin,Modified Release Tablet 300mg,1 Tablet,6.72,1489(E),27-03-2025
+593,Phenytoin,Tablet 100mg,1 Tablet,1.80,1489(E),27-03-2025
+594,Phenytoin,Tablet 50mg,1 Tablet,0.86,1489(E),27-03-2025
+595,Phenytoin,Oral liquid 30mg/5 mL(p),1 ML,0.36,1489(E),27-03-2025
+596,Phenytoin,Oral liquid 125mg/5mL(p),1 ML,1.13,1489(E),27-03-2025
+597,Phenytoin,Capsule 300mg,1 Capsule,4.76,1489(E),27-03-2025
+598,Phenytoin,Capsule 100mg,1 Capsule,1.87,1489(E),27-03-2025
+599,Phytomenadione (Vitamin K1),Injection 10mg/mL,1 ML,54.36,1489(E),27-03-2025
+600,Phytomenadione (Vitamin K1),Tablet 10mg,1 Tablet,14.89,1489(E),27-03-2025
+601,Pilocarpine,Drops 2 %,1 ML,16.64,1489(E),27-03-2025
+602,Piperacillin (A) +Tazobactam(B),Powder for Injection 1000mg(A)+125mg(B),1 Vial,102.05,1489(E),27-03-2025
+603,Piperacillin (A) +Tazobactam(B),Powder for Injection 2000mg(A)+250mg(B),1 Vial,196.15,1489(E),27-03-2025
+604,Piperacillin (A) +Tazobactam(B),Powder for Injection 4000mg(A)+500mg(B),1 Vial,409.00,1489(E),27-03-2025
+605,Potassium chloride,Oral liquid 500mg/5mL,1 ML,0.31,1489(E),27-03-2025
+606,Potassium chloride,Injection 150mg/mL,1 ML,2.46,1489(E),27-03-2025
+607,Povidone iodine,Solution 5%,1 ML,0.45,1489(E),27-03-2025
+608,Povidone iodine,Solution 7.5%,1 ML,0.84,1489(E),27-03-2025
+609,Povidone iodine,Solution 10%,1 ML,0.99,1489(E),27-03-2025
+610,Povidone iodine,Solution 4%,1 ML,1.78,1489(E),27-03-2025
+611,Povidone iodine,Ointment 10%,1 gm,6.30,3562(E),01-08-2025
+612,Pralidoxime chloride (2-PAM),Injection 25mg/mL,1 ML,4.67,1489(E),27-03-2025
+613,Prednisolone,Tablet 40mg,1 Tablet,3.49,1489(E),27-03-2025
+614,Prednisolone,Oral liquid 5mg/5mL(p),1 ML,0.50,1489(E),27-03-2025
+615,Prednisolone,Oral liquid 15mg/5mL(p),1 ML,0.88,1489(E),27-03-2025
+616,Prednisolone,Tablet 10mg,1 Tablet,1.23,1489(E),27-03-2025
+617,Prednisolone,Tablet 5mg,1 Tablet,0.69,1489(E),27-03-2025
+618,Prednisolone,Tablet 20mg,1 Tablet,2.46,1489(E),27-03-2025
+619,Prednisolone,Drops 1%,1 ML,5.90,1489(E),27-03-2025
+620,Premix Insulin 30:70 Injection (Regular:NPH),Injection 40 IU /ml,1 ml,17.40,1489(E),27-03-2025
+621,Primaquine,Tablet 7.5mg,1 Tablet,2.44,1489(E),27-03-2025
+622,Primaquine,Tablet 15mg,1 Tablet,5.26,1489(E),27-03-2025
+623,Primaquine,Tablet 2.5mg,1 Tablet,1.79,1489(E),27-03-2025
+624,Proparacaine,Eye Drops0.5%,1 ML,10.50,1489(E),27-03-2025
+625,Propofol,Injection 10mg/mL,1 ML,6.65,1489(E),27-03-2025
+626,Propranolol,Tablet 40mg,1 Tablet,3.30,1489(E),27-03-2025
+627,Propranolol,Tablet 10mg,1 Tablet,1.34,1489(E),27-03-2025
+628,Propranolol,Tablet 20mg,1 Tablet,3.28,1489(E),27-03-2025
+629,Propranolol,Capsule 40mg,1 Capsule,4.35,1489(E),27-03-2025
+630,Propranolol,Capsule 20 mg,1 Capsule,2.41,1489(E),27-03-2025
+631,Propranolol,Capsule 10 mg,1 Capsule,2.04,1489(E),27-03-2025
+632,Protamine Sulphate,Injection 10mg/mL,1 ML,10.01,1489(E),27-03-2025
+633,Pyrazinamide,Tablet 1000mg,1 Tablet,10.78,1489(E),27-03-2025
+634,Pyrazinamide,Tablet 500mg,1 Tablet,5.01,1489(E),27-03-2025
+635,Pyrazinamide,Tablet 750mg,1 Tablet,7.39,1489(E),27-03-2025
+636,Pyrazinamide,Tablet 1500mg,1 Tablet,12.10,1489(E),27-03-2025
+637,Pyridoxine,Tablet 100 mg,1 Tablet,6.12,1489(E),27-03-2025
+638,Pyridoxine,Tablet 10mg,1 Tablet,0.11,1489(E),27-03-2025
+639,Quinine,Tablet 300 mg,1 Tablet,5.79,1489(E),27-03-2025
+640,Quinine,Injection 300 mg/mL,1 ML,9.73,1489(E),27-03-2025
+641,Rabies vaccine,As licensed,1 Vial,387.80,1489(E),27-03-2025
+642,Raltegravir,Tablet 400mg,1 Tablet,151.35,1489(E),27-03-2025
+643,Ramipril,Tablet 2.5 mg,1 Tablet,5.33,1489(E),27-03-2025
+644,Ramipril,Tablet 5mg,1 Tablet,8.37,1489(E),27-03-2025
+645,Ramipril,Capsule 2.5mg,1 Capsule,4.77,1489(E),27-03-2025
+646,Ramipril,Capsule 5mg,1 Capsule,7.37,1489(E),27-03-2025
+647,Ribavirin,Capsule 200 mg,1 Capsule,27.13,1489(E),27-03-2025
+648,Riboflavin,Tablet 10mg,1 Tablet,1.12,5018(E),04-11-2025
+649,Rifampicin,Capsule 600mg,1 Capsule,11.64,1489(E),27-03-2025
+650,Rifampicin,Capsule 450mg,1 Capsule,5.81,1489(E),27-03-2025
+651,Rifampicin,Capsule 150mg,1 Capsule,2.35,1489(E),27-03-2025
+652,Rifampicin,Capsule 300mg,1 Capsule,4.72,1489(E),27-03-2025
+653,Rifampicin,Tablet 300 mg,1 Tablet,3.72,2027(E),06-05-2025
+654,Rifampicin,Oral liquid 100mg/5mL(p),1 ML,0.48,1489(E),27-03-2025
+655,Risperidone,Tablet 1 mg,1 Tablet,3.10,1489(E),27-03-2025
+656,Risperidone,Tablet 2 mg,1 Tablet,4.59,1489(E),27-03-2025
+657,Risperidone,Tablet 4 mg,1 Tablet,7.54,1489(E),27-03-2025
+658,Risperidone,Oral liquid 1mg/mL,1 ML,2.26,1489(E),27-03-2025
+659,Risperidone,Injection (Long acting) 25mg,1 ML,1976.65,1489(E),27-03-2025
+660,Risperidone,Injection (Long acting) 37.5 mg,1 ML,2713.03,1489(E),27-03-2025
+661,Ritonavir,Tablet 100mg,1 Tablet,29.91,1489(E),27-03-2025
+662,Rituximab,Injection 10mg/mL,1 ML,780.10,1489(E),27-03-2025
+663,Rota virus vaccine,As licensed,1 Vial,875.10,1489(E),27-03-2025
+664,Salbutamol,Tablet 4 mg,1 Tablet,0.33,1489(E),27-03-2025
+665,Salbutamol,Tablet 2 mg,1 Tablet,0.27,1489(E),27-03-2025
+666,Salbutamol,Respirator Solution (Solution for Nebulizer 5mg/mL),1 ML,1.05,1489(E),27-03-2025
+667,Salbutamol,Oral liquid 2mg/5mL,1 ML,0.18,1489(E),27-03-2025
+668,Salbutamol,Inhalation (MDI/DPI) 100mcg/dose,1 Dose,0.50,1489(E),27-03-2025
+669,Salicylic acid,Ointment 6%,1 GM,2.07,1489(E),27-03-2025
+670,Salicylicacid,Ointment 3%,1 GM,2.11,1489(E),27-03-2025
+671,Sevoflurane,Liquid for inhalation,1 ML,31.92,1489(E),27-03-2025
+672,Snake venom antiserum,Lyophilized polyvalent - As Licensed,1 Vial of 10 ml,681.24,1489(E),27-03-2025
+673,Snake Venom Antiserum,Soluble/ Liquid Polyvalent -As Licensed,1 Vial of 10 ml,438.96,1489(E),27-03-2025
+674,Sodium bicarbonate,Injection (as per IP) - 8.4%,1 ML,1.38,1489(E),27-03-2025
+675,Sodium bicarbonate,Injection (as per IP) - 7.5%,1 ML,1.04,1489(E),27-03-2025
+676,Sodium nitroprusside,Injection10mg/mL,1 ml,29.18,3562(E),01-08-2025
+677,Sodium Valproate,Tablet 300mg,1 Tablet,4.57,1489(E),27-03-2025
+678,Sodium Valproate,Oral liquid 200mg/5mL(p),1 ML,0.66,1489(E),27-03-2025
+679,Sodium Valproate,Tablet 200mg,1 Tablet,3.67,1489(E),27-03-2025
+680,Sodium Valproate,Modified Release – Tablet 500mg,1 Tablet,9.50,1489(E),27-03-2025
+681,Sodium Valproate,Tablet 500mg,1 Tablet,8.31,1489(E),27-03-2025
+682,Sodium Valproate,Modified Release – Tablet 300mg,1 Tablet,6.25,1489(E),27-03-2025
+683,Sodium Valproate,Injection 100mg/mL,1 ML,6.91,1489(E),27-03-2025
+684,Sofosbuvir,Tablet 400mg,1 Tablet,537.73,1489(E),27-03-2025
+685,Somatostatin,Powder for Injection 3mg,1 Vial,1391.63,1489(E),27-03-2025
+686,Spironolactone,Tablet 50mg,1 Tablet,4.48,1489(E),27-03-2025
+687,Spironolactone,Tablet 25mg,1 Tablet,2.24,1489(E),27-03-2025
+688,Streptokinase,"Injection 15,00,000IU",1 Vial,1922.41,1489(E),27-03-2025
+689,Streptomycin,Powder for Injection 750 mg,1 Vial,15.51,1489(E),27-03-2025
+690,Streptomycin,Powder for Injection 1000mg,1 Vial,16.68,1489(E),27-03-2025
+691,Succinylcholine,Injection 50mg/mL,1 ML,5.33,1489(E),27-03-2025
+692,Sulfasalazine,Tablet 500 mg,1 Tablet,4.83,1489(E),27-03-2025
+693,Sumatriptan,Tablet 25mg,1 Tablet,33.28,1489(E),27-03-2025
+694,Sumatriptan,Tablet 50mg,1 Tablet,57.02,1489(E),27-03-2025
+695,Surfactant,Suspension for intratracheal instillation (As licensed),Per mg of Phospholipids in the pack,80.89,2027(E),06-05-2025
+696,Tacrolimus,Capsule 0.5mg,1 Capusle,21.16,1489(E),27-03-2025
+697,Tacrolimus,Capsule 1mg,1 Capusle,41.60,1489(E),27-03-2025
+698,Tacrolimus,Capsule 2mg,1 Capusle,86.37,1489(E),27-03-2025
+699,Tacrolimus,Tablet 1mg,1 Tablet,40.94,1489(E),27-03-2025
+700,Tacrolimus,Tablet 2mg,1 Tablet,79.55,1489(E),27-03-2025
+701,Tacrolimus,Tablet 0.5mg,1 Tablet,21.47,1489(E),27-03-2025
+702,Tamoxifen,Tablet 20mg,1 Tablet,3.02,1489(E),27-03-2025
+703,Tamoxifen,Tablet 10mg,1 Tablet,2.26,1489(E),27-03-2025
+704,Telmisartan,Tablet 20mg,1 Tablet,3.98,1489(E),27-03-2025
+705,Telmisartan,Tablet 40mg,1 Tablet,6.92,1489(E),27-03-2025
+706,Telmisartan,Tablet 80mg,1 Tablet,10.65,1489(E),27-03-2025
+707,Temozolomide,Capsule 20 mg,1 Capsule,451.93,1489(E),27-03-2025
+708,Temozolomide,Capsule 250mg,1 Capsule,4407.35,1489(E),27-03-2025
+709,Temozolomide,Capsule 100mg,1 Capsule,1544.93,1489(E),27-03-2025
+710,Temozolomide,Tablet 20 mg,1 Tablet,344.73,1489(E),27-03-2025
+711,Temozolomide,Tablet 250 mg,1 Tablet,3848.39,1489(E),27-03-2025
+712,Tenecteplase,Injection 40mg/vial,1 Vial,51599.62,1489(E),27-03-2025
+713,Tenecteplase,Injection 30mg/vial,1 Vial,37796.29,1489(E),27-03-2025
+714,Teneligliptin,Tablet 20mg,1 Tablet,11.35,1489(E),27-03-2025
+715,Tenofovir Alafenamide Fumarate (TAF),Tablet 25mg,1 Tablet,50.04,1489(E),27-03-2025
+716,Tenofovir Disproxil Fumarate (A) + Lamivudine (B),Tablet 300mg (A) + 300mg(B),1 Tablet,46.67,1489(E),27-03-2025
+717,Tenofovir Disproxil Fumarate (A) +Lamivudine (B)+ Efavirenz(C),Tablet 300mg(A)+ 300mg (B) + 600mg(C),1 Tablet,105.32,1489(E),27-03-2025
+718,Tenofovir Disproxil Fumarate (TDF)*,Tablet 300mg,1 Tablet,46.94,1489(E),27-03-2025
+719,Tenofovir Disproxil Fumarate + Lamivudine + Dolutegravir,Tablet 300mg + 300mg + 50 mg,1 Tablet,117.75,1489(E),27-03-2025
+720,Terbinafine,Cream 1%,1 GM,5.38,1489(E),27-03-2025
+721,Tetanus toxoid,As licensed (5ml),1 Vial,26.14,1489(E),27-03-2025
+722,Tetanus toxoid,As licensed (0.5ml),1 Vial (0.5ML),12.77,1489(E),27-03-2025
+723,Thalidomide,Capsule 50 mg,1 Capsule,31.91,1489(E),27-03-2025
+724,Thalidomide,Capsule 100mg,1 Capsule,63.50,1489(E),27-03-2025
+725,Thiamine,Tablet 100 mg,1 Tablet,4.57,1489(E),27-03-2025
+726,Thiamine,Injection 100 mg/mL,1 ML,27.34,1489(E),27-03-2025
+727,Thiopentone,Powder for injection 1g,1 Vial,56.65,1489(E),27-03-2025
+728,Thiopentone,Powder for injection 0.5g,1 Vial,46.79,1489(E),27-03-2025
+729,Timolol,Drops 0.5 %,1 ML,13.72,1489(E),27-03-2025
+730,Tiotropium,Inhalation (MDI) 9 mcg/dose,1 Metered Dose,2.85,1489(E),27-03-2025
+731,Tiotropium,Inhalation (DPI) 18mcg/dose,1 Dose,10.97,1489(E),27-03-2025
+732,Tramadol,Injection 50mg/mL (upto 2ml pack),1 ML,12.07,1489(E),27-03-2025
+733,Tramadol,Capsule 50mg,1 Capsule,4.93,1489(E),27-03-2025
+734,Tramadol,Capsule 100mg,1 Capsule,9.26,1489(E),27-03-2025
+735,Tramadol,Tablet 50mg,1 Tablet,9.93,1489(E),27-03-2025
+736,Tramadol,Tablet 100mg,1 Tablet,25.07,1489(E),27-03-2025
+737,Tranexamic acid,Injection 100 mg/mL,1 ML,14.04,1489(E),27-03-2025
+738,Tranexamic acid,Tablet 500 mg,1 Tablet,18.98,1489(E),27-03-2025
+739,Trastuzumab,Injection 440mg/50mL,1 Vial,56039.24,1489(E),27-03-2025
+740,Trihexyphenidyl,Tablet 2mg,1 Tablet,1.40,1489(E),27-03-2025
+741,Tropicamide,Eye drop 1 %,1 ML,9.65,1489(E),27-03-2025
+742,Valganciclovir,Tablet 450 mg,1 Tablet,418.08,1489(E),27-03-2025
+743,Vancomycin,Powder for Injection 500 mg,1 Vial,325.27,1489(E),27-03-2025
+744,Vancomycin,Powder for Injection 1000mg,1 Vial,481.56,1489(E),27-03-2025
+745,Vancomycin,Powder for Injection 250 mg,1 Vial,257.28,1489(E),27-03-2025
+746,Vancomycin,Capsule 250 mg,1 Capsule,156.05,1489(E),27-03-2025
+747,Vecuronium,Powder for injection 10mg,1 Vial,120.19,1489(E),27-03-2025
+748,Vecuronium,Powder for injection 4 mg,1 Vial,76.18,1489(E),27-03-2025
+749,Verapamil,Tablet 80 mg,1 Tablet,1.63,1489(E),27-03-2025
+750,Verapamil,Tablet 40mg,1 Tablet,0.88,1489(E),27-03-2025
+751,Vincristine,Injection 1mg/mL,1 ML,58.90,1489(E),27-03-2025
+752,Vitamin A,Tablet 50000IU (including Chewable Tablet),1 Tablet,0.74,1489(E),27-03-2025
+753,Vitamin A,Injection 50000IU/mL,1 ML,2.31,1489(E),27-03-2025
+754,Warfarin,Tablet 5 mg,1 Tablet,2.46,1489(E),27-03-2025
+755,Warfarin,Tablet 3 mg,1 Tablet,3.26,1489(E),27-03-2025
+756,Warfarin,Tablet 2 mg,1 Tablet,2.79,1489(E),27-03-2025
+757,Warfarin,Tablet 1 mg,1 Tablet,2.52,1489(E),27-03-2025
+758,Water for injection,Injection,Each Pack (10 ml),2.48,1489(E),27-03-2025
+759,Xylometazoline,Nasal drops 0.05 %,1 ML,4.29,1489(E),27-03-2025
+760,Xylometazoline,Nasal drops 0.1%,1 ML,5.24,1489(E),27-03-2025
+761,Zidovudine,Tablet 300 mg,1 Tablet,13.92,1489(E),27-03-2025
+762,Zidovudine (A) +Lamivudine (B) +Nevirapine(C),Tablet 300mg(A)+150mg(B)+200m g (c),1 Tablet,21.64,1489(E),27-03-2025
+763,Zidovudine (A) +Lamivudine(B),Tablet 300mg(A)+150mg(B),1 Tablet,21.60,1489(E),27-03-2025
+764,Zinc Sulphate,Dispersible Tablet 20mg,1 Tablet,3.49,1489(E),27-03-2025
+765,Zoledronic acid,Powder for Injection 4mg,1 Vial,2449.49,1489(E),27-03-2025
+766,Zolpidem,Tablet 5mg,1 Tablet,6.36,1489(E),27-03-2025
+767,Zolpidem,Tablet 10mg,1 Tablet,8.72,1489(E),27-03-2025
