@@ -1,3 +1,0 @@
-config.ini
-*.db
-__pycache__/
