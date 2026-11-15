@@ -126,8 +126,7 @@ of stores per lakh people by state. Save a screenshot as `dashboard.png` for Git
 
 ## 6. Results
 
-*(Write your own final numbers here after the checks in section 4: medicines compared, average saving,
-hand-check result, lowest and highest states for stores per lakh.)*
+222 Jan Aushadhi tablets and capsules matched to NPPA ceiling prices. Median saving 68% below the GST-inclusive ceiling; 198 cost less than half. A hand-check of 30 random automatic matches found 30 correct; reviewing 116 unclear cases found one parsing error (Trihexyphenidyl), now fixed. Stores per lakh people range from 0.5 (Jharkhand) to 5.1 (Kerala); Telangana has 0.6. Details in CHECKS.md.
 
 ---
 
