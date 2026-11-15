@@ -5,8 +5,8 @@ Three checks were done before reporting any number (see README section 4).
 ## 1. Hand-check of 30 random automatic matches -> 30 of 30 correct
 File: `results/auto_match_check.csv` (column `correct (yes/no)`).
 For each row: same medicine (allowing salt names, e.g. Valganciclovir Hydrochloride = Valganciclovir),
-same strength, same form (tablet/capsule). The per-unit prices were then recomputed by hand from
-`data/ja_products.csv` (MRP / pack size) and `data/ceiling_prices.csv` (ceiling x 1.05 GST) and all 30
+same strength, same form (tablet/capsule). The per-unit prices were then recomputed from the files in `data/`:
+`data/ja_products.csv` (MRP / pack size) and `data/ceiling_prices.csv` (ceiling x 1.05 GST), and all 30
 agree with `results/Q4.csv`. Pack sizes like "30's Bottle", "28's Bottle" and "100's" were all parsed correctly.
 
 ## 2. Review of the 116 medicines that needed a human decision -> 25 matched, 91 no equivalent
@@ -16,7 +16,7 @@ File: `data/manual_matches.csv` (each row has a `note` with the reason).
   strength", but the ceiling list has Trihexyphenidyl Tablet 2mg (sl_no 740). The product name contains a second
   name in brackets, "(Benzhexol Hydrochloride Tablets IP 2mg)", which confused the strength parser. Fixed by a
   manual match. A good next step is to strip bracketed alternate names in `normalize.py`.
-- **The 6 "YOU DECIDE" rows:**
+- **The 6 rows that needed a judgement call:**
   | Code | Product | Decision | Why |
   |---|---|---|---|
   | 11 | Diclofenac gastro-resistant 50 mg | match 250 | ordinary diclofenac sodium 50 mg tablets are enteric coated as standard |

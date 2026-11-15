@@ -1,5 +1,5 @@
 """Turns messy medicine names, strengths and pack sizes into comparable values.
-Every rule here is simple string handling (no machine learning), so each decision can be explained
+Every rule here is simple string handling (no machine learning), so each decision can be explained."""
 import re
 
 FORM_WORDS = {

@@ -8,7 +8,7 @@ data to answer two questions:
    (ceiling) price for the same medicine?
 2. **Access:** how many Jan Aushadhi stores are there for every 1 lakh (100,000) people in each state?
 
-Built with **Python, MySQL, SQL and Power BI**. No patient or personal data is used.
+Built with **Python, MySQL and SQL**. No patient or personal data is used.
 
 ---
 
@@ -32,7 +32,7 @@ out of Jammu and Kashmir; Dadra and Nagar Haveli + Daman and Diu are combined (m
 ## 2. How it works
 
 ```
-data/*.csv ──► load_data.py ──► MySQL database ──► match_medicines.py ──► run_analysis.py ──► results/*.csv ──► Power BI
+data/*.csv ──► load_data.py ──► MySQL database ──► match_medicines.py ──► run_analysis.py ──► results/*.csv
                (clean + load)                       (pair each Jan Aushadhi     (SQL questions)
                                                      medicine with its
                                                      government ceiling price)
@@ -84,7 +84,7 @@ a first try, but use MySQL for the real results.
 
 ---
 
-## 4. Checks to do before reporting any number
+## 4. Checks before reporting
 
 Before reporting, I reviewed every uncertain match, hand-checked 30 random automatic matches, and confirmed the GST rate. Details are in CHECKS.md.
 
@@ -103,12 +103,8 @@ Before reporting, I reviewed every uncertain match, hand-checked 30 random autom
 | `Q7.csv` | Optional district view; empty unless district populations are added |
 | `no_ceiling_equivalent.csv` | Products with no ceiling price at all (mostly combination tablets), so nothing to compare |
 | `zero_mrp_products.csv` | 345 products listed with MRP 0 (no price published); left out |
-| `review_needed.csv` | Products still waiting for a decision, with the 3 closest ceiling entries |
-| `auto_match_check.csv` | The 30 random automatic matches to check by hand |
-
-**Dashboard (Power BI):** load `Q2`, `Q3`, `Q4` and `Q6`. Suggested pages: (1) the headline saving and a bar
-chart of saving by medicine group; (2) a table of common medicines with both prices; (3) a bar chart or map
-of stores per lakh people by state. Save a screenshot as `dashboard.png` for GitHub.
+| `review_needed.csv` | Products that needed a manual decision (all 116 now decided in `data/manual_matches.csv`) |
+| `auto_match_check.csv` | 30 random automatic matches, checked by hand (30 of 30 correct) |
 
 ---
 
@@ -152,4 +148,4 @@ of stores per lakh people by state. Save a screenshot as `dashboard.png` for Git
 | `analysis.sql` | The SQL questions (Q1–Q7) |
 | `run_analysis.py` | Runs `analysis.sql` and saves the results |
 | `db.py` | Connects to MySQL (or the local test database) |
-| `config.example.ini` | Template for your MySQL password and the GST rate |
+| `config.example.ini` | Template for the MySQL settings and the GST rate |
