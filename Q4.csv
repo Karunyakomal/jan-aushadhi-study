@@ -1,0 +1,223 @@
+﻿drug_code,generic_name,group_name,jan_aushadhi_per_unit,ceiling_incl_gst_per_unit,saving_pct,method
+1218,Temozolomide Capsules IP 250 mg,Oncology,129.8,4627.72,97.2,auto
+2415,Dolutegravir Tablets 50mg,Anti-Retroviral,6.25,121.28,94.8,auto
+407,Ivermectin Dispersible Tablets 12 mg,Anthelmintic,2.17,40.18,94.6,auto
+2148,Atorvastatin Tablets IP 80mg,Cardiovascular System (CVS),3.28,43.64,92.5,auto
+28,Tramadol Tablets 50mg,Analgesic/Antipyretic/Anti-Inflammatory,0.82,10.43,92.1,auto
+138,Glimepiride Tablets IP 2mg,Anti-Diabetic,0.57,6.24,90.9,auto
+267,Atorvastatin Tablets IP 20mg,Cardiovascular System (CVS),1.25,13.5,90.8,auto
+518,Baclofen Tablets IP 10 mg,Analgesic/Antipyretic/Anti-Inflammatory,1.21,12.8,90.5,auto
+935,Letrozole Tablets IP 2.5mg,Oncology,3.19,31.52,89.9,auto
+1612,Entecavir Tablets IP 0.5 mg,Hepato-Protective,9.38,90.79,89.7,auto
+321,Escitalopram Tablets IP 10 mg,Central Nervous System (CNS),1.03,9.68,89.3,auto
+1042,Risperidone Tablets IP 4mg,Central Nervous System (CNS),0.84,7.92,89.3,auto
+916,Imatinib Mesylate Tablets IP 400mg,Oncology,23.2,214.63,89.2,auto-salt
+456,Atorvastatin Tablets IP 40 mg,Cardiovascular System (CVS),2.27,20.76,89.1,auto
+137,Glimepiride Tablets IP 1mg,Anti-Diabetic,0.45,3.97,88.6,auto
+251,Montelukast Sodium Tablets IP 10mg,Respiratory,2.04,17.68,88.5,manual
+294,Ramipril Tablets IP 5 mg,Cardiovascular System (CVS),1.03,8.79,88.3,auto
+250,Montelukast Sodium Tablets IP 5mg,Respiratory,1.55,12.92,88.0,manual
+322,Escitalopram Tablets IP 20 mg,Central Nervous System (CNS),1.88,15.44,87.9,auto
+209,Ondansetron Tablets IP 4 mg,Anti-Emetic,0.68,5.52,87.7,auto
+875,Donepezil Hydrochloride Tablets IP 10mg,Central Nervous System (CNS),2.34,18.77,87.5,auto-salt
+806,Bicalutamide Tablets IP 50mg,Oncology,6.0,46.56,87.1,auto
+2474,Temozolomide Capsules IP 20mg,Oncology,62.81,474.53,86.8,auto
+1076,Tenofovir Disoproxil Fumarate Tablets IP 300 mg,Anti-Retroviral,6.74,49.29,86.3,auto
+2770,Zolpidem Tablets IP 5mg,Central Nervous System (CNS),0.94,6.68,86.0,auto
+293,Ramipril Tablets IP 2.5 mg,Cardiovascular System (CVS),0.79,5.6,85.8,auto
+275,Enalapril Tablets IP 5 mg,Cardiovascular System (CVS),0.57,3.97,85.7,auto
+2490,Amlodipine Tablets IP 2.5mg,Cardiovascular System (CVS),0.28,1.92,85.7,auto
+323,Flunarizine Tablets IP 10 mg,Central Nervous System (CNS),0.75,5.18,85.5,auto
+2440,Metoprolol Extended Release Tablets IP 100mg,Cardiovascular System (CVS),2.34,16.12,85.5,manual
+2427,Lenalidomide Capsules 25mg,Oncology,46.25,314.27,85.3,auto
+290,Metoprolol Tablets IP 25 mg,Cardiovascular System (CVS),0.68,4.57,85.1,auto
+319,Clonazepam Tablets IP 0.5 mg,Central Nervous System (CNS),0.57,3.71,84.7,auto
+1944,Escitalopram Tablets IP 5 mg,Central Nervous System (CNS),0.82,5.4,84.7,auto
+2406,Clopidogrel 150mg Tablets,Cardiovascular System (CVS),3.38,22.03,84.7,auto
+2047,Cholecalciferol Soft Gelatin Capsule 60000 IU,Supplement/Vitamin/Mineral,5.16,33.1,84.4,auto
+1298,Donepezil Tablets IP 5 mg,Central Nervous System (CNS),2.06,13.02,84.2,auto
+2014,Daclatasvir Tablets 60 mg,Hepato-Protective,34.25,215.01,84.1,auto
+1214,Gefitinib Tablets IP 250 mg,Oncology,41.25,254.98,83.8,auto
+2457,Propranolol Tablets IP 20mg,Cardiovascular System (CVS),0.56,3.44,83.7,auto
+360,Mifepristone Tablets IP 200 mg,Gynaecology,62.81,377.32,83.4,auto
+2898,Sumatriptan 50 Mg Tablets,Anti-Migraine,10.0,59.87,83.3,auto
+1217,Temozolomide Capsules IP 100mg,Oncology,274.31,1622.18,83.1,auto
+266,Atorvastatin Tablets IP 10mg,Cardiovascular System (CVS),0.91,5.34,83.0,auto
+300,Telmisartan Tablets IP 40mg,Cardiovascular System (CVS),1.24,7.27,83.0,auto
+1222,Artemether 80mg and Lumefantrine 480mg Tablets,Anti-Malarial,4.69,27.43,82.9,auto
+505,Carbimazole Tablets IP 10 mg,Anti-Thyroid,0.79,4.58,82.7,auto
+1075,Teneligliptin Tablets IP 20mg,Anti-Diabetic,2.06,11.92,82.7,auto
+2874,Dolutegravir (50Mg) + Lamivudine (300Mg) + Tenofovir Disoproxil Fumarate (300Mg) Tablets,Anti-retroviral,21.67,123.64,82.5,auto
+2050,Amlodipine Tablet IP 10mg,Cardiovascular System (CVS),1.03,5.86,82.4,auto
+483,Loperamide Capsules IP 2 mg,Gastrointestinal (GIT),0.72,4.08,82.3,auto
+844,Clonazepam Tablets IP 1mg,Central Nervous System (CNS),0.91,5.12,82.3,auto
+2771,Fluconazole Tablets IP 50 mg,Anti-Fungal,1.88,10.41,82.0,auto
+2428,Lenalidomide Capsules 5mg,Oncology,13.06,72.3,81.9,auto
+186,Domperidone Tablets IP 10 mg,Anti-Emetic,0.45,2.49,81.8,auto
+224,Folic Acid Tablets IP 5 mg,Supplement/Vitamin/Mineral,0.3,1.63,81.4,auto
+1574,Clobazam Tablets IP 10 mg,Central Nervous System (CNS),2.0,10.58,81.1,auto
+1958,Risperidone Tablets IP 2 mg,Central Nervous System (CNS),0.94,4.82,80.5,auto
+2028,Tacrolimus Capsule IP 2 mg,Immunosuppressant,17.81,90.69,80.4,auto
+434,Propranolol Tablets IP 40 mg,Cardiovascular System (CVS),0.68,3.46,80.3,auto
+2115,Methotrexate Tablets IP 5mg,Oncology,2.0,10.13,80.3,auto
+1105,Zolpidem Tablets IP 10mg,Central Nervous System (CNS),1.86,9.16,79.7,auto
+987,Nitrofurantoin Tablets I.P 100mg,Urology,1.81,8.72,79.2,auto
+2114,Methotrexate Tablets IP 10mg,Oncology,3.0,14.29,79.0,auto
+264,Amlodipine Tablets IP 5mg,Cardiovascular System (CVS),0.57,2.69,78.9,auto
+325,Fluoxetine Hydrochloride Capsules IP 20mg,Central Nervous System (CNS),0.91,4.29,78.9,auto-salt
+1435,Capecitabine Tablets IP 500mg,Oncology,25.78,121.2,78.7,auto
+1906,Amitriptyline Hydrochloride Tablets IP 50 mg,Central Nervous System (CNS),1.41,6.44,78.2,auto-salt
+1813,Telmisartan Tablets IP 80mg,Cardiovascular System (CVS),2.5,11.18,77.7,auto
+882,Efavirenz Tablets IP 600mg,Anti-Retroviral,17.0,75.9,77.6,auto
+972,Mycophenolate Mofetil Tablets IP 500mg,Immunosuppressant,18.0,80.2,77.6,auto
+785,Amitriptyline Hydrochloride Tablets IP 25mg,Central Nervous System (CNS),0.61,2.68,77.4,auto-salt
+499,Norethisterone Tablets IP 5 mg,Gynaecology,1.31,5.8,77.3,auto
+203,Misoprostol Tablets IP 200 mcg,Gynaecology,4.69,20.4,77.0,auto
+1957,Risperidone Tablets IP 1mg,Central Nervous System (CNS),0.75,3.26,77.0,auto
+2029,Tacrolimus Capsule IP 1 mg,Immunosuppressant,10.31,43.68,76.4,auto
+2044,Levonorgestrel Tablet IP 1.5 mg,Gynaecology,20.0,81.02,75.3,auto
+2477,Thalidomide Capsules 100mg,Oncology,16.5,66.67,75.3,auto
+1110,Clobazam Tablet IP 5mg,Central Nervous System (CNS),1.55,6.16,74.9,auto
+2143,Zinc Sulphate Dispersible Tablets IP 20mg,Supplement/Vitamin/Mineral,0.94,3.66,74.4,auto
+11,Diclofenac Gastro-Resistant Tablets IP 50 mg,Analgesic/Antipyretic/Anti-Inflammatory,0.57,2.21,74.2,manual
+450,Labetalol Hydrochloride Tablets IP 100mg,Cardiovascular System (CVS),4.22,16.3,74.1,auto-salt
+2692,Hydrocortisone Tablets 10mg,Steroids & Hormones,1.88,7.2,74.0,auto
+1062,Sofosbuvir Tablets IP 400mg,Hepato-Protective,147.32,564.62,73.9,auto
+2032,Atazanavir 300mg and Ritonavir 100mg Tablets IP,Anti-Retroviral,28.19,107.34,73.7,auto
+2048,Methotrexate Tablets IP 2.5mg,Oncology,1.5,5.71,73.7,auto
+786,Amitriptyline Hydrochloride Tablets IP 10mg,Central Nervous System (CNS),0.68,2.57,73.5,auto-salt
+79,Cefuroxime Axetil Tablets IP 500 mg,Antibiotics,14.64,55.3,73.5,manual
+2255,Colchicine Tablets 0.5mg,Ortho,0.94,3.51,73.3,auto
+269,Clopidogrel Tablets IP 75mg,Cardiovascular System (CVS),1.93,7.16,73.1,auto
+1851,Thyroxine Sodium Tablets IP 25mcg,Anti-Thyroid,0.42,1.56,73.0,manual
+272,Diltiazem Tablets IP 60 mg,Cardiovascular System (CVS),1.59,5.88,72.9,auto
+299,Telmisartan Tablets IP 20mg,Cardiovascular System (CVS),1.13,4.18,72.9,auto
+324,Flunarizine Tablets IP 5 mg,Central Nervous System (CNS),0.72,2.67,72.9,auto
+377,Clindamycin Capsules IP 300 mg,Antibiotics,8.44,30.5,72.3,auto
+2479,Thalidomide Capsules 50mg,Oncology,9.28,33.51,72.3,auto
+2163,Enalapril Maleate Tablets IP 2.5mg,Cardiovascular System (CVS),0.66,2.35,72.1,auto-salt
+1933,Clomipramine Hydrochloride Tablets 25mg,Central Nervous System (CNS),1.88,6.69,72.0,auto-salt
+2065,Lopinavir and Ritonavir Tablets IP (200mg + 50mg),Anti-Retroviral,14.84,51.58,71.2,auto
+2773,Fluconazole Tablets IP 400 mg,Anti-Fungal,9.38,31.99,70.7,auto
+740,Clarithromycin Tablets IP 250 mg,Antibiotics,7.69,25.87,70.3,auto
+327,Phenytoin Tablets IP 100 mg,Central Nervous System (CNS),0.57,1.89,70.0,auto
+2772,Fluconazole Tablets IP 200 mg,Anti-Fungal,5.63,18.77,70.0,auto
+2693,Hydrocortisone Tablets 5mg,Steroids & Hormones,1.03,3.35,69.2,auto
+145,Metformin Hydrochloride Tablets IP 500mg,Anti-Diabetic,0.68,2.17,68.7,auto-salt
+144,Metformin Hydrochloride Sustained Release Tablets IP 1000 mg,Anti-Diabetic,1.36,4.36,68.7,manual
+2757,Thyroxine Sodium Tablets IP 62.5mcg,Anti-Thyroid,0.54,1.73,68.6,manual
+52,Cefadroxil Tablets IP 500 mg,Antibiotics,2.27,7.21,68.5,auto
+1154,Diethylcarbamazine Citrate Tablets IP 100mg,Anthelmintic,0.57,1.8,68.4,auto-salt
+1905,Amitriptyline Hydrochloride Tablets IP 75 mg,Central Nervous System (CNS),1.88,5.86,68.0,auto-salt
+320,Diazepam Tablets IP 5 mg,Central Nervous System (CNS),0.56,1.75,67.9,auto
+95,Levofloxacin Tablets IP 250mg,Antibiotics,1.69,5.18,67.4,auto
+207,Omeprazole Gastro-resistant Capsules IP 20 mg,Gastrointestinal (GIT),1.02,3.09,66.9,manual
+256,Salbutamol Tablets IP 2mg,Respiratory,0.09,0.28,66.8,auto
+1199,Hydroxyurea Capsules IP 500mg,Oncology,4.4,13.03,66.2,auto
+2657,Acyclovir Dispersible Tablets IP 200 mg,Anti-Viral,2.81,8.18,65.6,auto
+384,Itraconazole Capsules 100 mg,Anti-Fungal,6.24,17.92,65.2,auto
+96,Levofloxacin Tablets IP 500mg,Antibiotics,3.4,9.67,64.8,auto
+2204,Tenofovir Alafenamide Tablets IP 25mg,Hepato-protective,18.75,52.54,64.3,auto-salt
+1852,Thyroxine Sodium Tablets IP 75mcg,Anti-Thyroid,0.56,1.55,63.8,manual
+954,Medroxyprogesterone Acetate Tablets IP 10mg,Gynaecology,2.44,6.72,63.7,auto
+1932,Clomipramine Hydrochloride Tablets 10mg,Central Nervous System (CNS),1.13,3.07,63.3,auto-salt
+301,Tranexamic Acid Tablets IP  500 mg,Coagulants,7.4,19.93,62.9,auto
+412,Azathioprine Tablets IP 50 mg,Immunosuppressant,4.5,12.11,62.8,auto
+1590,Dabigatran Etexilate Mesilate Capsules 110 mg,Anticoagulant,12.89,34.2,62.3,manual
+1005,Phenobarbitone Tablets IP 30mg,Central Nervous System (CNS),0.53,1.41,62.2,auto
+1456,Itraconazole Capsules 200 mg,Anti-Fungal,9.07,23.78,61.8,auto
+1850,Thyroxine Sodium Tablets IP 12.5mcg,Anti-Thyroid,0.61,1.6,61.8,manual
+1853,Thyroxine Sodium Tablets IP 125mcg,Anti-Thyroid,0.71,1.82,60.8,manual
+271,Diltiazem Tablets IP 30 mg,Cardiovascular System (CVS),1.13,2.89,60.7,auto
+1806,Sodium Valproate 200mg and Valproic acid 87mg Controlled Release Tablets,Central Nervous System (CNS),2.58,6.56,60.7,manual
+380,Clarithromycin Tablets IP 500 mg,Antibiotics,16.88,42.83,60.6,auto
+746,Valganciclovir Hydrochloride Tablets USP 450 mg,Anti-viral,174.0,438.98,60.4,auto-salt
+382,Linezolid Tablets IP 600 mg,Antibiotics,15.47,38.36,59.7,auto
+1026,Propranolol Tablets IP 10mg,Cardiovascular System (CVS),0.57,1.41,59.6,auto
+15,Ibuprofen Tablets IP 200 mg,Analgesic/Antipyretic/Anti-Inflammatory,0.31,0.76,59.1,auto
+949,Lorazepam Tablets IP 2mg,Central Nervous System (CNS),1.24,3.02,59.1,auto
+2250,Abacavir 600mg and Lamivudine 300mg Tablets,Anti-Retroviral,31.8,77.76,59.1,auto
+768,Acetazolamide Tablets IP 250mg,Altitude Sickness,1.8,4.37,58.8,auto
+948,Lorazepam Tablets IP 1mg,Central Nervous System (CNS),1.03,2.49,58.6,auto
+1166,Mefenamic Acid Tablets 250 mg,Analgesic/Antipyretic/Anti-Inflammatory,0.94,2.27,58.6,auto
+1187,Cyclosporine Capsules IP 100 mg,Immunosuppressant,46.0,110.87,58.5,auto
+1681,Levetiracetam Tablets IP 250 mg,Central Nervous System (CNS),2.81,6.77,58.5,auto
+2026,Etoposide Capsules IP 50 mg,Oncology,25.31,60.89,58.4,auto
+2876,Lamivudine 100 Mg Tablets,Hepato-Protective,5.0,11.9,58.0,auto
+1938,Diazepam Tablets IP 2 mg,Central Nervous System (CNS),0.66,1.55,57.8,auto
+443,Isosorbide Dinitrate Tablets IP 5 mg,Cardiovascular System (CVS),0.38,0.88,57.5,auto
+2480,Thyroxine Sodium Tablets IP 150mcg,Anti-Thyroid,0.78,1.83,57.2,manual
+1060,Sodium Valproate Gastro-Resistant Tablets IP 300mg,Central Nervous System (CNS),2.06,4.8,57.0,manual
+1591,Dabigatran Etexilate Mesilate Capsules 150 mg,Anticoagulant,16.5,38.27,56.9,manual
+1807,Sodium Valproate 333mg and Valproic acid 145mg Controlled Release Tablets,Central Nervous System (CNS),4.33,9.97,56.6,manual
+85,Ciprofloxacin Hydrochloride Tablets IP 250 mg,Antibiotics,1.03,2.36,56.4,auto-salt
+1246,Fluconazole Tablets IP 150 mg,Anti-Fungal,5.68,12.97,56.2,auto
+2134,Ribavirin Capsules USP 200mg,Hepato-protective,12.5,28.49,56.1,auto
+2180,Mesalamine Delayed Release Tablets 400mg,Gastrointestinal (GIT),3.75,8.52,56.0,manual
+202,Metronidazole  Tablets IP 400mg,Antibiotics,0.72,1.64,55.9,auto
+391,Moxifloxacin Tablets 400 mg,Antibiotics,12.38,27.76,55.4,auto
+1682,Levetiracetam Tablets IP 750 mg,Central Nervous System (CNS),9.28,20.8,55.4,auto
+1236,Albendazole Tablets IP 400mg,Anthelmintic,3.4,7.57,55.1,auto
+2691,Hydrochlorothiazide Tablets IP 25 mg,Diuretic,0.84,1.88,55.1,auto
+1341,Mebendazole Tablets IP 100 mg,Anthelmintic,1.41,3.12,54.9,auto
+86,Ciprofloxacin Hydrochloride Tablets IP 500 mg,Antibiotics,2.06,4.57,54.8,auto-salt
+283,Isosorbide Dinitrate Tablets IP 10mg,Cardiovascular System (CVS),0.39,0.87,54.8,auto
+1937,Clozapine Tablets IP 100 mg,Central Nervous System (CNS),4.13,9.09,54.6,auto
+1059,Sodium Valproate Enteric Coated Tablets IP 200mg,Central Nervous System (CNS),1.75,3.85,54.5,manual
+2140,Verapamil Tablets IP 40mg,Cardiovascular System (CVS),0.42,0.92,54.3,auto
+1936,Clozapine Tablets IP 50 mg,Central Nervous System (CNS),2.58,5.58,53.8,auto
+1087,Trihexyphenidyl Hydrochloride Tablets IP 2mg (Benzhexol Hydrochloride Tablets IP 2mg),Central Nervous System (CNS),0.68,1.47,53.7,manual
+16,Ibuprofen Tablets IP 400 mg,Analgesic/Antipyretic/Anti-Inflammatory,0.61,1.29,53.1,auto
+1935,Clozapine Tablets IP 25 mg,Central Nervous System (CNS),1.41,2.99,53.0,auto
+1375,Phenobarbitone Tablets IP 60 mg,Central Nervous System (CNS),0.96,2.03,52.5,auto
+956,Mefloquine Hydrochloride Tablets IP 250mg,Anti-Malarial,26.72,56.08,52.4,auto-salt
+1893,Primaquine Phosphate Tablets IP 7.5 mg,Anti-Malarial,1.22,2.56,52.4,auto-salt
+163,Tamoxifen Citrate Tablets IP 10 mg,Oncology,1.13,2.37,52.2,auto-salt
+511,Paracetamol Tablets IP 650 mg,Analgesic/Antipyretic/Anti-Inflammatory,1.03,2.15,52.1,auto
+92,Doxycycline Capsules IP 100mg,Antibiotics,1.59,3.31,52.0,auto
+2142,Warfarin Tablets IP 2mg,Cardiovascular System (CVS),1.41,2.93,52.0,auto
+507,Carbimazole Tablets IP 5 mg,Anti-Thyroid,1.13,2.35,51.8,auto
+1502,Amiodarone Tablets IP 100 mg,Cardiovascular System (CVS),3.2,6.6,51.6,auto
+2748,Spironolactone Tablets IP 50 mg,Diuretic,2.28,4.7,51.5,auto
+5,Aspirin Gastro-resistant Tablets IP 150 mg,Analgesic/Antipyretic/Anti-Inflammatory,0.37,0.76,51.2,auto
+1308,Ethinylestradiol 0.03mg and Levonorgestrel 0.15mg Tablets IP,Gynaecology,1.67,3.41,51.2,auto
+2084,Carbamazepine Prolonged release Tablets IP 400mg,Central Nervous System (CNS),2.45,5.01,51.1,manual
+180,Bisacodyl Tablets IP 5mg,Gastrointestinal (GIT),0.62,1.26,50.9,auto
+430,Amiodarone Tablets IP 200 mg,Cardiovascular System (CVS),6.08,12.38,50.9,auto
+2915,Itraconazole Capsules IP 200mg,Anti-Fungal,11.8,23.78,50.4,auto
+332,Thyroxine Sodium Tablets IP 100 mcg,Anti-Thyroid,0.7,1.42,50.4,manual
+2914,Itraconazole Capsules IP 100mg,Anti-Fungal,8.9,17.92,50.3,auto
+1894,Primaquine Phosphate Tablets IP 2.5 mg,Anti-Malarial,0.94,1.88,50.1,auto-salt
+55,Cefixime Tablets IP 200 mg,Antibiotics,5.25,10.51,50.0,auto
+164,Tamoxifen Citrate Tablets IP 20 mg,Oncology,1.59,3.17,50.0,auto-salt
+201,Metronidazole  Tablets IP 200mg,Antibiotics,0.44,0.88,50.0,auto
+375,Quinine Sulphate Tablets IP 300 mg,Anti-Malarial,3.04,6.08,50.0,auto-salt
+392,Griseofulvin Tablets IP 250 mg,Anti-Fungal,0.95,1.9,50.0,auto
+455,Verapamil Tablets IP 80 mg,Cardiovascular System (CVS),0.86,1.71,50.0,auto
+508,Levetiracetam Tablets IP 500 mg,Central Nervous System (CNS),6.98,13.97,50.0,auto
+509,Hydroxychloroquine Tablets IP 200 mg,Anti-Malarial,3.42,6.84,50.0,auto
+1476,Hydroxychloroquine Tablet IP 400 mg,Anti-Malarial,7.42,14.84,50.0,auto
+2141,Warfarin Tablets IP 1mg,Cardiovascular System (CVS),1.32,2.65,50.0,auto
+2222,Allopurinol Tablets IP 300 mg,Respiratory,3.03,6.06,50.0,auto
+2894,Prednisolone Tablet (40Mg),Steroids & Hormones,1.83,3.66,50.0,auto
+2913,Clarithromycin Tablets IP 500mg,Antibiotics,21.4,42.83,50.0,auto
+1221,Thyroxine Sodium Tablets IP 50mcg,Anti-Thyroid,0.56,1.11,50.0,manual
+279,Frusemide Tablets IP 40 mg,Diuretic,0.49,0.99,49.9,auto
+386,Diethylcarbamazine Tablets IP 50 mg,Anthelmintic,0.3,0.6,49.9,auto
+912,Hydrochlorothiazide Tablets IP 12.5mg,Cardiovascular System (CVS),0.56,1.12,49.9,auto
+336,Allopurinol Tablets IP 100 mg,Ortho,1.03,2.03,49.1,auto
+72,Azithromycin Tablets IP 500 mg,Antibiotics,13.13,25.35,48.2,auto
+199,Metoclopramide Tablets IP 10 mg,Gastrointestinal (GIT),0.75,1.45,48.2,auto
+790,Aspirin Enteric Coated Tablets IP 75mg,Cardiovascular System (CVS),0.2,0.38,46.9,auto
+260,Salbutamol Tablets IP 4 mg,Respiratory,0.19,0.35,45.7,auto
+1152,Carbamazepine Prolonged-release Tablets IP 200mg,Central Nervous System (CNS),1.41,2.58,45.6,manual
+18,Azithromycin Tablets IP 250 mg,Antibiotics,7.03,12.55,44.0,auto
+449,Spironolactone Tablets IP 25 mg,Diuretic,1.38,2.35,41.5,auto
+428,Digoxin Tablets IP 0.25 mg,Cardiovascular System (CVS),0.84,1.43,40.9,auto
+317,Carbamazepine Tablets IP 100 mg,Central Nervous System (CNS),0.75,1.16,35.1,auto
+330,Prednisolone Tablets IP 10 mg,Steroids & Hormones,0.84,1.29,34.6,auto
+452,Warfarin Tablets IP 5 mg,Cardiovascular System (CVS),1.69,2.58,34.6,auto
+23,Paracetamol Tablets IP 500 mg,Analgesic/Antipyretic/Anti-Inflammatory,0.66,0.98,32.8,auto
+329,Prednisolone Tablets IP 5 mg,Steroids & Hormones,0.5,0.72,31.0,auto
+769,Acetylsalicylic Acid (Aspirin) Gastro-resistant Tablets IP 325mg,Cardiovascular System (CVS),0.54,0.71,25.0,auto
+333,Dexamethasone Tablets IP 0.5 mg,Steroids & Hormones,0.19,0.23,18.6,auto

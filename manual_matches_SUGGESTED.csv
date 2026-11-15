@@ -1,0 +1,117 @@
+drug_code,generic_name,unit_size,ceiling_id,ceiling_entry,status,reason
+9,Diclofenac Sodium Prolonged Release Tablets IP 100 mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 50mg
+11,Diclofenac Gastro-Resistant Tablets IP 50 mg,10's,,,YOU DECIDE,"the ceiling list says 'Tablet 50mg' (ceiling_id 250) without saying gastro-resistant/enteric coated. Check whether the ordinary product sold in India is normally enteric coated: if yes write 250, if not write 0"
+48,Azithromycin Dispersible Tablets 100mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 500mg, Tablet 1000mg, Tablet 250mg"
+51,Cefadroxil Dispersible Tablets 250mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 500mg
+54,Cefixime Tablets IP 100 mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 400mg, Tablet 200mg"
+78,Cefuroxime Axetil Tablets IP 250 mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 500mg
+79,Cefuroxime Axetil Tablets IP 500 mg,10's,161,Cefuroxime | Tablet 500mg | 1 Tablet | Rs 52.67,suggested,"same medicine, form and strength; only the salt name is written differently ('Cefuroxime Tablet 500mg')"
+144,Metformin Hydrochloride Sustained Release Tablets IP 1000 mg,10's,490,Metformin | Modified release Tablet 1000mg | 1 Tablet | Rs 4.15,suggested,'SR' is a type of modified release; the ceiling list has 'Modified release Tablet 1000mg'
+183,Dicyclomine Tablets IP 10mg,10's,0,,suggested,"no ceiling entry in the same form; ceiling entries for this medicine are: Injection 10mg/mL (10 ML & more pack)), Injection 10mg/mL (Less than 10ML Pack)"
+194,Hyoscine Butylbromide Tablets IP 10 mg,10's,0,,suggested,no ceiling entry in the same form; ceiling entries for this medicine are: Injection 20 mg/ml
+207,Omeprazole Gastro-resistant Capsules IP 20 mg,10's,548,Omeprazole | Capsule 20 mg | 1 Capsule | Rs 2.94,suggested,"omeprazole capsules are always gastro-resistant, so the ceiling 'Capsule' entry is the same product"
+212,Pantoprazole Gastro Resistant Tablets IP 40 mg,10's,0,,suggested,no ceiling entry in the same form; ceiling entries for this medicine are: Injection 40mg
+250,Montelukast Sodium Tablets IP 5mg,10's,519,Montelukast | Tablet 5 mg (including chewable Tablets) | 1 Tablet | Rs 12.3,suggested,"same medicine, form and strength; only the salt name is written differently ('Montelukast Tablet 5 mg (including chewable Tablets)')"
+251,Montelukast Sodium Tablets IP 10mg,10's,521,Montelukast | Tablet 10 mg | 1 Tablet | Rs 16.84,suggested,"same medicine, form and strength; only the salt name is written differently ('Montelukast Tablet 10 mg')"
+253,Pheniramine Maleate Tablets IP 25 mg,15's,0,,suggested,"no ceiling entry in the same form; ceiling entries for this medicine are: Injection 22.75mg/mL (10ml), Injection 22.75mg/mL (2ml)"
+291,Metoprolol Extended release Tablets IP 50mg,10's,0,,suggested,the ceiling list has only the ordinary tablet; a slow-release tablet is a different product
+305,Chloroquine Phosphate Tablets IP 250 mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 150 mg
+332,Thyroxine Sodium Tablets IP 100 mcg,100's,452,Levothyroxine | Tablet 100mcg | 1 Tablet | Rs 1.35,suggested,"same medicine, form and strength; only the salt name is written differently ('Levothyroxine Tablet 100mcg')"
+337,Clomiphene Citrate Tablets IP 50mg,10's,0,,suggested,"no ceiling entry in the same form; ceiling entries for this medicine are: Capsule 100 mg, Capsule 50mg"
+372,Metformin Hydrochloride Prolonged release Tablets IP 500 mg,10's,0,,suggested,the ceiling list has only the ordinary tablet; a slow-release tablet is a different product
+387,Terbinafine Tablets IP 250mg,7's,0,,suggested,no ceiling entry in the same form; ceiling entries for this medicine are: Cream 1%
+413,Methotrexate Tablets IP 7.5 mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 10mg, Tablet 2.5mg, Tablet 5mg"
+425,Diltiazem Sustained Release Tablets 90 mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 60mg, Tablet 30mg"
+427,S(-)Amlodipine Tablets IP 2.5 mg,10's,0,,suggested,S(-)amlodipine (levamlodipine) is a different molecule from amlodipine
+433,Isosorbide Mononitrate Sustained Release Tablets 30 mg,30's,0,,suggested,isosorbide mononitrate is a different molecule from isosorbide dinitrate
+437,Nifedipine Prolonged release Tablets IP 20mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 10mg
+489,Sulfasalazine Gastro-resistant Tablets 1000mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 500 mg
+492,Sulfasalazine Delayed Release Tablets 500mg,10's,,,YOU DECIDE,"the ceiling list says 'Tablet 500 mg' (ceiling_id 692) without saying gastro-resistant/enteric coated. Check whether the ordinary product sold in India is normally enteric coated: if yes write 692, if not write 0"
+501,Betamethasone Sodium Phosphate Tablets IP 0.5 mg,20's,0,,suggested,"no ceiling entry in the same form; ceiling entries for this medicine are: Cream 0.05%, Cream 0.1%, Gel 0.05%, Injection 4mg/mL, Lotion 0.05%"
+521,Tramadol Prolonged Release Tablets IP 100 mg,10's,0,,suggested,the ceiling list has only the ordinary tablet; a slow-release tablet is a different product
+539,Acetylcysteine Tablets 600 mg,10's,0,,suggested,no ceiling entry in the same form; ceiling entries for this medicine are: Injection 200 mg/mL
+597,Pyridoxine Tablets IP 50 mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 100 mg, Tablet 10mg"
+689,Clotrimazole Vaginal Tablets IP 100mg,10's,0,,suggested,"no ceiling entry in the same form; ceiling entries for this medicine are: Cream1%, Drops 1%, Lotion 1%, Pessary 100mg"
+739,Cefuroxime Axetil Tablets IP 125mg,6's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 500mg
+747,Glimepiride Tablets  IP 3mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 2mg, Tablet 1mg"
+748,Glimepiride Tablets IP 4mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 2mg, Tablet 1mg"
+885,Ethinylestradiol 0.05mg and Levonorgestrel 0.25mg Tablets IP,21's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 0.03mg(A) + Tablet 0.15mg(B)
+906,Glyceryl Trinitrate Controlled Release Tablets 2.6mg (Nitroglycerin Controlled Release Tablets),30's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Sublingual Tablet 0.5mg
+934,Lenalidomide  Capsules 10mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Capsule 5mg, Capsule 25 mg"
+947,Lithium Carbonate Prolonged Release Tablets IP 450mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 300mg
+960,Metformin Sustained Release Tablets IP 850mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 1000mg, Tablet 500mg, Modified release Tablet 1000mg"
+1059,Sodium Valproate Enteric Coated Tablets IP 200mg,10's,,,YOU DECIDE,"the ceiling list says 'Tablet 200mg' (ceiling_id 679) without saying gastro-resistant/enteric coated. Check whether the ordinary product sold in India is normally enteric coated: if yes write 679, if not write 0"
+1060,Sodium Valproate Gastro-Resistant Tablets IP 300mg,10's,,,YOU DECIDE,"the ceiling list says 'Tablet 300mg' (ceiling_id 677) without saying gastro-resistant/enteric coated. Check whether the ordinary product sold in India is normally enteric coated: if yes write 677, if not write 0"
+1087,Trihexyphenidyl Hydrochloride Tablets IP 2mg (Benzhexol Hydrochloride Tablets IP 2mg),10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 2mg
+1097,Vitamin A Capsule IP 25000 IU,30's,0,,suggested,"no ceiling entry in the same form; ceiling entries for this medicine are: Injection 50000IU/mL, Tablet 50000IU (including Chewable Tablet)"
+1123,Clomipramine Hydrochloride Sustained release Tablets 75mg,10's,0,,suggested,the ceiling list has only the ordinary tablet; a slow-release tablet is a different product
+1152,Carbamazepine Prolonged-release Tablets IP 200mg,10's,132,Carbamazepine | Modified Release – Tablet 200mg | 1 Tablet | Rs 2.46,suggested,'PR' is a type of modified release; the ceiling list has 'Modified Release – Tablet 200mg'
+1167,Mefenamic Acid Tablets 500 mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 250 mg
+1221,Thyroxine Sodium Tablets IP 50mcg,100's in Bottle,445,Levothyroxine | Tablet 50mcg | 1 Tablet | Rs 1.06,suggested,"same medicine, form and strength; only the salt name is written differently ('Levothyroxine Tablet 50mcg')"
+1263,Ampicillin Capsules IP 500 mg,10's,0,,suggested,"no ceiling entry in the same form; ceiling entries for this medicine are: Powder for Injection 1 gm, Powder for Injection 500 mg"
+1348,Methylprednisolone Tablets IP 4mg,10's,0,,suggested,no ceiling entry in the same form; ceiling entries for this medicine are: Injection 40mg/mL
+1452,Pyridoxine Hydrochloride Sustained release tablets 100mg,10's,0,,suggested,the ceiling list has only the ordinary tablet; a slow-release tablet is a different product
+1485,Mesalazine Prolonged release Tablets IP 1200 mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 400 mg
+1564,Cholecalciferol Chewable Tablets 60000 IU,4'S,0,,suggested,the ceiling list has only the ordinary tablet; a chewable tablet is a different formulation
+1590,Dabigatran Etexilate Mesilate Capsules 110 mg,10's,230,Dabigatran | Capsule 110mg | 1 Capsule | Rs 32.57,suggested,"same medicine, form and strength; only the salt name is written differently ('Dabigatran Capsule 110mg')"
+1591,Dabigatran Etexilate Mesilate Capsules 150 mg,10's,231,Dabigatran | Capsule 150mg | 1 Capsule | Rs 36.45,suggested,"same medicine, form and strength; only the salt name is written differently ('Dabigatran Capsule 150mg')"
+1597,Diclofenac Prolonged release Tablets IP 75 mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 50mg
+1599,Diltiazem Hydrochloride Extended Release Capsules 120 mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Modified Release Capsule 180mg
+1680,Levetiracetam Tablets IP 1000 mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 250mg, Tablet 500mg, Modified Release Tablet 750mg, Tablet 750mg"
+1708,Metoprolol Succinate Prolonged release tablets IP 25mg,15's,0,,suggested,the ceiling list has only the ordinary tablet; a slow-release tablet is a different product
+1723,Nifedipine Sustained Release Tablets IP 10mg,15's,0,,suggested,the ceiling list has only the ordinary tablet; a slow-release tablet is a different product
+1787,S (-) Amlodipine Tablets IP 5mg,15's,0,,suggested,S(-)amlodipine (levamlodipine) is a different molecule from amlodipine
+1806,Sodium Valproate 200mg and Valproic acid 87mg Controlled Release Tablets,10's,,,YOU DECIDE,"NPPA note (g): sodium valproate + valproic acid combinations count as sodium valproate of the equivalent strength. Work out the equivalent strength and release type, then pick the matching ceiling_id (Modified Release entries for controlled release), or 0 if none matches"
+1807,Sodium Valproate 333mg and Valproic acid 145mg Controlled Release Tablets,10's,,,YOU DECIDE,"NPPA note (g): sodium valproate + valproic acid combinations count as sodium valproate of the equivalent strength. Work out the equivalent strength and release type, then pick the matching ceiling_id (Modified Release entries for controlled release), or 0 if none matches"
+1850,Thyroxine Sodium Tablets IP 12.5mcg,100's Bottle,451,Levothyroxine | Tablet 12.5mcg | 1 Tablet | Rs 1.52,suggested,"same medicine, form and strength; only the salt name is written differently ('Levothyroxine Tablet 12.5mcg')"
+1851,Thyroxine Sodium Tablets IP 25mcg,100's Bottle,449,Levothyroxine | Tablet 25 mcg | 1 Tablet | Rs 1.49,suggested,"same medicine, form and strength; only the salt name is written differently ('Levothyroxine Tablet 25 mcg')"
+1852,Thyroxine Sodium Tablets IP 75mcg,100's Bottle,446,Levothyroxine | Tablet 75mcg | 1 Tablet | Rs 1.48,suggested,"same medicine, form and strength; only the salt name is written differently ('Levothyroxine Tablet 75mcg')"
+1853,Thyroxine Sodium Tablets IP 125mcg,100's Bottle,453,Levothyroxine | Tablet 125mcg | 1 Tablet | Rs 1.73,suggested,"same medicine, form and strength; only the salt name is written differently ('Levothyroxine Tablet 125mcg')"
+1897,Quinine Sulphate Tablets IP 600 mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 300 mg
+1908,Amitriptyline Hydrochloride 25mg Chlordiazepoxide 10mg Tablets,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 50mg, Tablet 75mg, Tablet 25mg, Tablet 10mg"
+1931,Clonazepam Mouth Dissolving Tablets 0.25 mg,10's,0,,suggested,the ceiling list has only the ordinary tablet; a mouth-dissolving tablet is a different product
+1934,Clomipramine Hydrochloride Tablets 50mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 10 mg, Tablet 25 mg, Tablet 75 mg"
+1939,Diazepam Tablets IP 10 mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 5 mg, Tablet 2 mg"
+2006,Sodium Bicarbonate Tablet 500 mg,10's,0,,suggested,"no ceiling entry in the same form; ceiling entries for this medicine are: Injection (as per IP) - 7.5%, Injection (as per IP) - 8.4%"
+2007,Sodium Bicarbonate Tablet 1000 mg,10's,0,,suggested,"no ceiling entry in the same form; ceiling entries for this medicine are: Injection (as per IP) - 7.5%, Injection (as per IP) - 8.4%"
+2018,Mesalazine Prolonged release Tablets IP 500mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 400 mg
+2027,Mesalazine Delayed release Tablets 800 mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 400 mg
+2030,Tacrolimus Capsule IP 0.25 mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Capsule 0.5mg, Capsule 1mg, Capsule 2mg"
+2038,Pantoprazole Gastro-Resistance Tablets IP 20mg,10's,0,,suggested,no ceiling entry in the same form; ceiling entries for this medicine are: Injection 40mg
+2060,Paracetamol Tablets IP 1000 Mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 650mg, Tablet 500mg"
+2076,Atorvastatin Tablets IP 5mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 40mg, Tablet 20mg, Tablet 80mg, Tablet 10mg"
+2084,Carbamazepine Prolonged release Tablets IP 400mg,10's,133,Carbamazepine | Modified Release – Tablet 400mg | 1 Tablet | Rs 4.77,suggested,'PR' is a type of modified release; the ceiling list has 'Modified Release – Tablet 400mg'
+2098,Dabigatran Etexilate Mesilate Capsules 75 mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Capsule 110mg, Capsule 150mg"
+2116,Methylprednisolone Tablets IP 16mg,10's,0,,suggested,no ceiling entry in the same form; ceiling entries for this medicine are: Injection 40mg/mL
+2118,Metoprolol Succinate Extended Release Tablets IP 12.5mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 25mg, Tablet 50mg, Modified Release Tablet 100 mg, Tablet 100 mg"
+2122,Mycophenolate Sodium Gastro-resistant Tablets 360mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 500mg, Tablet 250mg"
+2126,Ondansetron Orally disintegrating Tablets IP 8mg,10's,0,,suggested,the ceiling list has only the ordinary tablet; a mouth-dissolving tablet is a different product
+2161,Diethylcarbamazine 150mg Tablets,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 100mg, Tablet 50mg"
+2170,Glimepiride IP 0.5mg Tablets,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 2mg, Tablet 1mg"
+2176,Labetalol IP 200mg Tablets,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 100 mg
+2180,Mesalamine Delayed Release Tablets 400mg,10's,4,5-aminosalicylic Acid | Tablet 400 mg | 1 Tablet | Rs 8.11,suggested,"mesalamine 400 mg tablets are delayed-release by design, so the ceiling 'Tablet 400 mg' entry is the same product"
+2192,Ramipril Tablets IP 10mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 2.5 mg, Tablet 5mg"
+2197,Risperidone Tablets IP 3 mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 1 mg, Tablet 2 mg, Tablet 4 mg"
+2225,Acetylcysteine Effervescent Tablets 600mg,10's,0,,suggested,no ceiling entry in the same form; ceiling entries for this medicine are: Injection 200 mg/mL
+2290,Baclofen 20mg Extended Release (Gastric Retentive System) Tablets,10's,0,,suggested,the ceiling list has only the ordinary tablet; a slow-release tablet is a different product
+2325,Lorazepam Tablets IP 3mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 1 mg, Tablet 2 mg"
+2437,Methotrexate Tablets IP 15mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 10mg, Tablet 2.5mg, Tablet 5mg"
+2438,Methotrexate Tablets IP 20mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 10mg, Tablet 2.5mg, Tablet 5mg"
+2440,Metoprolol Extended Release Tablets IP 100mg,10's,503,Metoprolol | Modified Release Tablet 100 mg | 1 Tablet | Rs 15.35,suggested,'ER' is a type of modified release; the ceiling list has 'Modified Release Tablet 100 mg'
+2478,Thalidomide Capsules 200mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Capsule 50 mg, Capsule 100mg"
+2480,Thyroxine Sodium Tablets IP 150mcg,120's in Bottle,454,Levothyroxine | Tablet 150 mcg | 1 Tablet | Rs 1.74,suggested,"same medicine, form and strength; only the salt name is written differently ('Levothyroxine Tablet 150 mcg')"
+2498,Clozapine tablets IP 200mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 25mg, Tablet 50mg, Tablet 100 mg"
+2584,Levetiracetam Prolonged Release Tablets IP 1000mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 250mg, Tablet 500mg, Modified Release Tablet 750mg, Tablet 750mg"
+2613,Nitrofurantoin 50mg Tablets,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 100 mg
+2614,Nitrofurantoin Sustained Release Tablets 100mg,15's,0,,suggested,the ceiling list has only the ordinary tablet; a slow-release tablet is a different product
+2615,Norethisterone Acetate Controlled Release Tablets 10mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 5mg
+2695,Itraconazole Capsules 130mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Capsule 100mg, Capsule 200mg"
+2696,Itraconazole Capsules 65mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Capsule 100mg, Capsule 200mg"
+2706,Metformin Hydrochloride Tablets IP 250 mg,10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 1000mg, Tablet 500mg, Modified release Tablet 1000mg"
+2713,Nifedipine Extended Release Tablets IP 30 mg,10's,0,,suggested,no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 10mg
+2729,Risperidone 2mg Trihexyphenidyl 2 mg Tablets (mouth Dissolving ),10's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 1 mg, Tablet 2 mg, Tablet 4 mg"
+2749,Spironolactone Tablets IP 100mg,15's,0,,suggested,"no ceiling entry with the same strength; ceiling entries for this medicine are: Tablet 50mg, Tablet 25mg"
+2757,Thyroxine Sodium Tablets IP 62.5mcg,100's Bottle,450,Levothyroxine | Tablet 62.5mcg | 1 Tablet | Rs 1.65,suggested,"same medicine, form and strength; only the salt name is written differently ('Levothyroxine Tablet 62.5mcg')"
+2816,Glycopyrrolate Tablet 1Mg,10's,0,,suggested,no ceiling entry in the same form; ceiling entries for this medicine are: Injection 0.2mg/mL
+2817,Glycopyrrolate Tablet 2Mg,10's,0,,suggested,no ceiling entry in the same form; ceiling entries for this medicine are: Injection 0.2mg/mL
+2825,Levetiracetam Tablets IP 500 Mg XR,10's,0,,suggested,the ceiling list has only the ordinary tablet; a slow-release tablet is a different product
