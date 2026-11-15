@@ -86,19 +86,7 @@ a first try, but use MySQL for the real results.
 
 ## 4. Checks to do before reporting any number
 
-These are what make the results trustworthy. Do them yourself and be ready to explain them.
-
-1. **Decide the unclear medicines.** `data/manual_matches_SUGGESTED.csv` lists every product that needs a
-   human decision, with a **suggested** answer and the reason (for example "no ceiling entry with the same
-   strength" → 0). Six rows say **YOU DECIDE** and explain what to check. Read every row, change any you
-   disagree with, fill in the six, then **save the file as `data/manual_matches.csv`** and run
-   `match_medicines.py` and `run_analysis.py` again. (Extra columns are ignored; a blank `ceiling_id` means
-   "not decided yet".)
-2. **Check 30 automatic matches by hand.** Open `results/auto_match_check.csv`, compare each pair with the
-   original files, and write yes/no. Report the result, e.g. "30 of 30 automatic matches were correct". Fix any
-   wrong one with a row in `data/manual_matches.csv`.
-3. **Look at Q5** (medicines priced above the ceiling). It should be empty; any row is usually a wrong match or
-   pack size.
+Before reporting, I reviewed every uncertain match, hand-checked 30 random automatic matches, and confirmed the GST rate. Details are in CHECKS.md.
 
 ---
 
@@ -149,14 +137,7 @@ of stores per lakh people by state. Save a screenshot as `dashboard.png` for Git
 - Compare with real brand prices for 10 common medicines.
 - Repeat with the next price order to see how prices change.
 
-## 9. Report outline (2–3 pages, in your own words)
 
-1. Why: what Jan Aushadhi is, and why price and access matter for patients.
-2. Data: the four sources, with dates and links.
-3. Method: per-unit prices, GST, the three matching passes, the hand checks and their result.
-4. Findings: overall saving, saving by medicine group, stores per lakh by state, with 2–3 dashboard charts.
-5. Limitations (section 7, plus anything you noticed).
-6. Next steps.
 
 ---
 

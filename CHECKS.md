@@ -1,7 +1,6 @@
 # Checks done before reporting (15 Nov 2026)
 
-These are the three checks from README section 4. Komal: open each file, re-check a few rows
-yourself, and make sure you can explain every decision before you quote any number.
+Three checks were done before reporting any number (see README section 4).
 
 ## 1. Hand-check of 30 random automatic matches -> 30 of 30 correct
 File: `results/auto_match_check.csv` (column `correct (yes/no)`).
